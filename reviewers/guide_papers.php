@@ -106,6 +106,32 @@
 
               <li> The focus of your review should be on content.  
                    </li>
+                   
+              <li>Papers that you receive are supposed to be anonymous.  Your review
+should be based on the merits of the paper, not the reputation of the
+authors or their institutions.  Therefore, we have asked the authors to
+remove all identifiable references to themselves.   
+We realize that reviewers sometimes know the
+work and can guess who the authors of the papers might be.</li>
+
+<li>If you recognize the work, it is your responsibility to give a fair
+and unbiased review, using only the information in the paper.
+If you do not feel that you can give a fair, unbiased review based
+on the paper and not the authors or institutions, please contact the program
+chairs immediately.</li>
+
+<li>Your review should not include comments to the authors about the
+anonymization (or lack thereof) in the paper.  If you feel that it is
+necessary to comment on this, please use the text box, 'Confidential
+comments to the committee.'</li>
+
+<li>We realize that occasionally anonymization requires the authors to
+remove information that affects your review  (information that otherwise
+the paper appears to lack).  As a reviewer, you can give the authors the
+benefit of the doubt.  Use the 'Confidential comments to the committee'
+box to indicate this to us.  Example "This paper should reference Mark
+Guzdial's work, unless those references were removed
+for anonymity").     </li>
 
               <li> Please point out typographic and grammatical errors,
                    unless there are too many of them. 

@@ -268,7 +268,13 @@
 
 
 		<p>
-			Authors must submit <b>two versions</b> of their paper: a "publication" version that includes author/institution information, and an anonymized version. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. <!-- You, as the author, choose the level of anonymity in the paper. At the lowest level, you may choose to submit two identical versions of the paper (no anonymization); at the highest level, --> The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications). The publication version is available for use by the Program Committee. Both versions are limited to a maximum of 5 pages and must adhere to the <a href="format.php">SIGCSE 2010 Format Instructions</a>. <a href="http://www.acm.org/sigs/pubs/proceed/template.html">Templates are available in Word, WordPerfect, and LaTeX</a>.
+			Authors must submit <b>two versions</b> of their paper: a "publication" version that includes author/institution information, and an anonymized version. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. <!-- You, as the author, choose the level of anonymity in the paper. At the lowest level, you may choose to submit two identical versions of the paper (no anonymization); at the highest level, --> The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications).  Self-citations need not be removed if they are worded  so that the reviewer doesn't know if the writer is citing
+himself/herself. That is, instead of writing "We
+reported on our first experiment with this work in 2007 in a previous
+paper [1]", the writer should write "In 2007, an initial experiment was
+done in this area as reported in [1]."</p>
+            
+         <p>The publication version is available for use by the Program Committee. Both versions are limited to a maximum of 5 pages and must adhere to the <a href="format.php">SIGCSE 2010 Format Instructions</a>. <a href="http://www.acm.org/sigs/pubs/proceed/template.html">Templates are available in Word, WordPerfect, and LaTeX</a>.
 		</p>
 		<p>
 			If your paper is accepted you will have a chance to modify your publication version before it is published.
@@ -308,9 +314,8 @@
                    to select the reviewers who will evaluate your paper.
                    To increase the likelihood that your paper will be given
                    to a reviewer who is familiar with the content of
-                   your paper, besides the overall classification,
-                   choose at most <strong>three</strong>
-                   categories that best fit your paper.
+                   your paper, choose one broad classification and at most three 
+                   course-related and/or general topic areas that best fit your paper.
                    <strong> Selection of more than three categories may
                    result in automatic rejection of your paper.</strong>
                    </li>
