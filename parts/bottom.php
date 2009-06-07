@@ -19,7 +19,8 @@
 		          print( "SIGCSE 2010 Logo designed by Cortny Helmick <script>write_email( \"cortny.helmick\", \"gmail.com\" );</script> | " );
 		         }
 		  ?>
-          <a href="/sigcse2010/credits.php">Web Site Credits</a>
+          <a href="/sigcse2010/credits.php">Web Site Credits</a> <br />
+          The SIGCSE 2010 Web site is open source : <a href="http://github.com/mikehelmick/SIGCSE2010-Web-Site/tree/master">View the SIGCSE 2010 Source on GitHub</a>
           
           <br/><br/>
           <?php if ( $mainPage == true ) { ?>
