@@ -105,9 +105,7 @@
             is the responsibility of the workshop leaders.  We recommend
             that the organizers of each hands-on workshop create their
             own web page (on their own server) with all necessary
-            software and instructions for installation.  To accommodate
-            late registrations, we will collect these URLs and make them
-            available (for registrants only) at on-site registration.
+            software and instructions for installation.  To accommodate late registrations, we will collect these URLs and make them available (for registrants only) at on-site registration.  We will also provide presenters with mailing lists containing the emails of current enrollees after early registration closes on the SIGCSE website."
             </p>
 
             <p>
@@ -242,24 +240,12 @@
 
               <li> <strong>Workshop Proposal Abstract (Limited to 100 words)</strong>
 
-                   <p style="font-size: 1.0em">
-                   The abstract is the description of the workshop that will
-                   appear on the web page.  The description is limited to 100
-                   words and must match verbatim the abstract section
-                   of the Full Workshop Proposal.
-                   </p>
+<p>The abstract is the description of the workshop that will appear on the SIGCSE web page and is what participants will use to decide which workshops to attend. This year we are asking that you include information about the intended audience and computing requirements <b>in the abstract</b> to help readers make that choice.</p>
 
-                   <p style="font-size: 1.0em">
-                   The workshop proposal abstract must be submitted in plain
-                   text.  The abstract for an accepted proposal may contain
-                   a URL with more information for participants.
-                   </p>
+<p>The description is limited to 100 words and must match verbatim the abstract section of the Full Workshop Proposal.</p>
 
-                   <p style="font-size: 1.0em">
-                   (Abstracts of accepted workshops can be edited in
-                   response to reviews for the camera-ready submission.)
-                   </p>
-                   
+<p>The workshop proposal abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information for participants. (Abstracts of accepted workshops can be edited in response to reviews for the camera-ready submission.)"</p>
+ 
                    </li>
             </ol>
 
