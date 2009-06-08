@@ -23,7 +23,7 @@
 <div id="navcontainer">
 <table width="100%" border="0" >
  <tr>
-  <td align="left" valign="top">
+  <td align="left" valign="top" nowrap="nowrap">
       <div id="headerleft">SIGCSE 2010 <br/>
       The 41st ACM Technical Symposium on Computer Science Education<br />
       March 10-13, 2010, Milwaukee, WI, USA<br />
