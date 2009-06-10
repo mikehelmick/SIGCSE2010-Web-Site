@@ -6,7 +6,7 @@
           <table width="100%"><tr>
             <td align="center" width="50%">
                <a href="http://www.sigcse.org/"><img src="/sigcse2010/images/logos/sigcse.gif" alt="SIGCSE Logo"/></a>
-            <td>
+            </td>
             <td align="center" width="50%">
                <a href="http://www.acm.org/"><img src="/sigcse2010/images/logos/acm_logo.gif" alt="ACM Logo"/></a>
             </td>

@@ -13,7 +13,7 @@
              FAQ</a></li>  
         <li><a href="/sigcse2010/exhibitors/" <?php if ($menu == "exhibitors") echo "id=\"current\""; ?>>
              Exhibitors/Supporters</a></li>   
-        <li><a href="/sigcse2010/blog/" <?php if ($menu == "blog") echo "id=\"current\""; ?>>
+        <li><a href="http://sigcse2010.blogspot.com/" <?php if ($menu == "blog") echo "id=\"current\""; ?>>
              Blog</a></li>
         <li><a href="/sigcse2010/press/" <?php if ($menu == "press") echo "id=\"current\""; ?>>
              Press</a></li>
