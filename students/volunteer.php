@@ -22,6 +22,11 @@
             world.  More information about the experience, the benefits,
             and how to sign up are provided below.
             </p>
+            
+            <p>
+            To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our <a href="/sigcse2010//attendees/registration.php">SIGCSE 2010 registration page</a>)
+            AND you should <a href="https://www.surveymonkey.com/s.aspx?sm=PxFt0jKgLgj_2fq8LBrmgKiw_3d_3d">sign up to be a student volunteer</a>.
+            </p>
 
 <!--
             <p>
@@ -44,12 +49,8 @@
             <p>
             Each student volunteer is asked to sign up as a volunteer
             prior to the conference.  (Instructions for signing up as
-            a student volunteer are given below.)  Upon arrival at the
-            conference site, you must check in at the
-            Student Volunteer Office to receive your conference
-            registration packet
-            and work schedule (with a list of times, locations, and duties).
-            It is your obligation is to work the scheduled hours.
+            a student volunteer are given below.)  
+            Upon arrival at the conference site, you must check in at the Registration Desk to receive your conference registration packet then visit the Student Volunteer Office to pick up your work schedule (with a list of times, locations, and duties).
             </p>
 
 <div class="SectionHeader"><div class="Full">
@@ -97,7 +98,7 @@
 </div></div> 
  
             <p>
-            In exchange for 5 hours of conference service, you will receive:
+            In exchange for 6 hours of conference service, you will receive:
             </p>
 
             <ul>
@@ -172,22 +173,20 @@
             We realize that things may come up and will try to make
             dynamic changes as needed.
             In return, we ask that you be as flexible as possible.
-            Your duties may be broken into separate time periods
-            and even across separate days, but we'll try not to make
-            your schedule too wide-spread.
+            Your duties may be broken into separate time periods and even across separate days.  We guarantee no more than 6 hours of assigned work per volunteer but target an average of 5 hours.
             </p>
 
 <div class="SectionHeader"><div class="Full">
-<h2>Do I have to be there for the whole conference to be an student volunteer?</h2>
+<h2>Do I have to be there for the whole conference to be a student volunteer?</h2>
 </div></div> 
           <p>
             No. We realize that travel plans and other commitments exist.
             We hope that students local to the Chattanooga area will be
             flexible.  In particular, there is always a need
-            for volunteers on Wednesday, which is before most
+            for volunteers on Tuesday and Wednesday, which is before most
             of the conference activities begin and before many
             of the traveling student volunteers have arrived.
-            We encourage local student volunteers to be available on Wednesday.
+            We encourage local student volunteers to be available on Tuesday and Wednesday.
             </p>
 
 <div class="SectionHeader"><div class="Full">

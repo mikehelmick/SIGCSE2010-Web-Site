@@ -19,6 +19,7 @@
 
 <ul>
   <li><img src="/sigcse2010/images/chart_curve.png" align="absmiddle" /><a href="/sigcse2010/students/research.php">Student Research Competition</a></li>
+  <li>Of course, students can also become <a href="/sigcse2010/presenters/">authors</a> or regular conference attendees (at a reduced registration rate).</li>
   <li><img src="/sigcse2010/images/vcard_add.png" align="absmiddle" /><a href="/sigcse2010/students/volunteer.php">Volunteer at SIGCSE</a></li>
 </ul>
 

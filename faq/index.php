@@ -253,7 +253,7 @@ qualified to review?</em>
                     expensive for students than for regular attendees.
                     For students interested in volunteering some of their
                     time to contribute to the success of the conference,
-                    we waive the conference registration fee.
+                    we reimburse the conference registration fee.
                     For more information about how to volunteer,
                     see our Student Volunteers page.
                     </p>
