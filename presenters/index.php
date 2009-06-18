@@ -55,7 +55,7 @@ SIGCSE 2010 will continue the video exhibition begun at SIGCSE 2009. While any r
 <p><b>IMPORTANT DUE DATES</b><br/>
 Friday, September 11, 2009: Paper, Panel, Special Session, and Workshop submissions<br/>
 Monday, November 2, 2009: Birds of a Feather, Poster, and Video submissions<br />
-Friday, January  15, 2010: Lighting Birds of a Feather submissions</p>
+Friday, January  15, 2010: Lightning Birds of a Feather submissions</p>
 
 <?php
   include("../parts/committee.php");

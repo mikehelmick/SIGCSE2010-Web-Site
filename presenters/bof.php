@@ -45,13 +45,13 @@
  	    <td align="left">Updates to BOF Title, Proposer &amp; Abstract:</td><td align="left">December 7, 2009</td>
        </tr>
        <tr>
-        <td align="left">Lighting BOF Submission Deadline:</td><td align="left" nowrap="nowrap">January  15, 2010</td>
+        <td align="left">Lightning BOF Submission Deadline:</td><td align="left" nowrap="nowrap">January  15, 2010</td>
        </tr>
        <tr><td align="right" colspan="2">
 @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Lighting BOF Acceptance Notification:</td><td align="left" nowrap="nowrap">January 31, 2010</td>
+  	    <td align="left">Lightning BOF Acceptance Notification:</td><td align="left" nowrap="nowrap">January 21, 2010</td>
        </tr>
 
       </table>
@@ -86,7 +86,7 @@ BOFs.</p>
 year there will also be a small number of slots reserved for Lightning BoFs.
 Lightning BOFs can be submitted between December 15th and January 15th (two
 and a half months after the regular BOF submission deadline).  The acceptance
-notifications for these lightning BOFs will be sent by January 31, 2010
+notifications for these lightning BOFs will be sent by January 21, 2010
 (before the early registration deadline).  The hope is that this will allow
 people to propose BOFs based on "hot" topics of current interest.</p>
 
@@ -241,7 +241,7 @@ for a lightning BOF.</p>
                    <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.
                    Send e-mail to
-                   Tzu-Yi Chen <script>write_email( "tzuyi", "cs.pomona.edu" );</script>
+                   Tzu-Yi Chen <script>write_email( "sigcse10-bofs", "cs.xu.edu" );</script>
                    if there are any problems.
                    Warning! Several authors have reported problems viewing
                    their PDF files using Internet Explorer.
