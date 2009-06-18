@@ -129,13 +129,6 @@
             </ul>
 
             <p>
-            Either in the review itself or in the confidential comments
-            for the Program Committee, you might also note any proposals
-            that specifically target this year's SIGCSE theme
-            (&quot;Engaging Computer Science Education&quot;).
-            </p>
-
-            <p>
             Obviously this list is not exhaustive.  The Program Committee
             and authors will appreciate your views on other issues as well.
             </p>
