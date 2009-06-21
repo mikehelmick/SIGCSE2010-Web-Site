@@ -105,7 +105,7 @@
             is the responsibility of the workshop leaders.  We recommend
             that the organizers of each hands-on workshop create their
             own web page (on their own server) with all necessary
-            software and instructions for installation.  To accommodate late registrations, we will collect these URLs and make them available (for registrants only) at on-site registration.  We will also provide presenters with mailing lists containing the emails of current enrollees after early registration closes on the SIGCSE website."
+            software and instructions for installation.  To accommodate late registrations, we will collect these URLs and make them available (for registrants only) at on-site registration.  We will also provide presenters with mailing lists containing the emails of current enrollees after early registration closes on the SIGCSE website.
             </p>
 
             <p>
@@ -244,7 +244,7 @@
 
 <p>The description is limited to 100 words and must match verbatim the abstract section of the Full Workshop Proposal.</p>
 
-<p>The workshop proposal abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information for participants. (Abstracts of accepted workshops can be edited in response to reviews for the camera-ready submission.)"</p>
+<p>The workshop proposal abstract must be submitted in plain text. The abstract for an accepted proposal may contain a URL with more information for participants. (Abstracts of accepted workshops can be edited in response to reviews for the camera-ready submission.)</p>
  
                    </li>
             </ol>
@@ -289,8 +289,7 @@
               <li> After receiving confirmation, go to the
                    <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.  Send e-mail to
-                   Ruth E. Anderson (<script>write_email( "rea", "cs.washington.edu" );</script>) or 
-                   Lisa Kaczmarczyk (<script>write_email( "lisak", "ucsd.edu" );</script>) if there are any problems.
+                   Ruth E. Anderson and Lisa Kaczmarczyk (<script>write_email( "sigcse10-workshops", "cs.xu.edu" );</script>) if there are any problems.
                    Warning! Several authors have reported problems viewing
                    their PDF files using Internet Explorer.
                    If you experience similar problems, it is best
