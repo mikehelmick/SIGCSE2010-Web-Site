@@ -230,7 +230,7 @@
                    </p>
 
                    <ul>
-                     <li> <a href="/sigcse2010/downloads/workshopProposalsample.doc">Workshop Proposal Example (Word)</a>
+                     <li> <a href="/sigcse2010/downloads/workshopProposalsample.doc" onclick="target='newwindow'">Workshop Proposal Example (Word)</a>
                           </li>
                      <li> <a href="/sigcse2010/downloads/workshopProposalsample.pdf" onclick="target='newwindow'">Workshop Proposal Example (PDF)</a>
                           </li>
