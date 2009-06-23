@@ -31,14 +31,13 @@
         <td align="left">Paper Submission Deadline:</td><td align="left">September 11, 2009</td>
        </tr>
        <tr>
-  	    <td align="left">Papers to Reviewers:</td><td align="left">tbd</td>
+  	    <td align="left">Papers to Reviewers:</td><td align="left">September 14, 2009 </td>
        </tr>
        <tr>
- 	    <td align="left">Reviews Due:</td><td align="left">tbd</td>
+ 	    <td align="left">Reviews Due:</td><td align="left">September 30, 2009</td>
        </tr>
       </table>
     </div>
-  
   </td>              
  </tr>
 </table>
