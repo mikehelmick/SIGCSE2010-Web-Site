@@ -36,16 +36,19 @@
       
       <table>
        <tr>
-        <td align="left">Submission Deadline:</td><td align="left">September 11, 2009</td>
+        <td align="left" valign="top">Submission Deadline:</td><td align="left">September 11, 2009</td>
+       </tr>
+       <tr><td align="right" colspan="2">
+@11:59 p.m. Hawaii-Aleutian Standard Time (HST)</td>
        </tr>
        <tr>
-  	    <td align="left">Author Notification:</td><td align="left">tbd</td>
+  	    <td align="left">Author Notification:</td><td align="left">October 24, 2009</td>
        </tr>
        <tr>
- 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">tbd</td>
+ 	    <td align="left">Updates to Paper Title &amp; Authors:</td><td align="left">November 9, 2009</td>
        </tr>
        <tr>
-  	    <td align="left">Camera-Ready Copy:</td><td align="left">tbd</td>
+  	    <td align="left">Camera-Ready Copy:</td><td align="left">December 7, 2009</td>
        </tr>
       </table>
     </div>
