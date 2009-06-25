@@ -117,7 +117,7 @@ Larry Merkle<br/>
 Wright State University<br/>
 &nbsp;<br/> 
 <script>write_email( "sigcse2010", "csse.rose-hulman.edu" );</script></p>
- </td><td>&nbsp;</td></tr>
+ </td><td><img src="/sigcse2010/pictures/merkle.jpg" /></td></tr>
 
  <tr class="header"><td colspan="2"><b>Posters</b></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap">
