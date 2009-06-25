@@ -66,7 +66,7 @@
 				<strong>Experience Reports</strong> describe an idea, course or classroom experience that worked well and is now recommended to others.
 			</li>
 			<li>
-				<strong>Research Studies</strong> report on a study grounded in theory, and using appropriate methodolgy (e.g., case study, qualitative methods, quasi-experimental, experimental) to support the investigation and stated results.
+				<strong>Research Studies</strong> report on a study grounded in theory, and using appropriate methodology (e.g., case study, qualitative methods, quasi-experimental, experimental) to support the investigation and stated results.
 			</li>
 			<li>
 				<strong>Philosophical</strong> papers present an argument for a direction or idea to be considered in the curriculum, a particular course, or the overall field.
@@ -259,7 +259,7 @@
 			<br>
 		</p>
 		<p>
-			Descriptions of each of these paper categories can be found at the <a href="http://db.grinnell.edu/sigcse/sigcse2009/subjectDisplay.asp">online topic display site</a>. When you submit your paper, we will request that you indicate the broad class you believe the paper fits into as well as up to three categories from the course-related and general topic areas.
+			Descriptions of each of these paper categories can be found at the <a href="http://db.grinnell.edu/sigcse/sigcse2010/subjectDisplay.asp">online topic display site</a>. When you submit your paper, we will request that you indicate the broad class you believe the paper fits into as well as up to three categories from the course-related and general topic areas.
 		</p>
              
 <div class="SectionHeader"><div class="Full">
@@ -268,13 +268,13 @@
 
 
 		<p>
-			Authors must submit <b>two versions</b> of their paper: a "publication" version that includes author/institution information, and an anonymized version. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. <!-- You, as the author, choose the level of anonymity in the paper. At the lowest level, you may choose to submit two identical versions of the paper (no anonymization); at the highest level, --> The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications).  Self-citations need not be removed if they are worded  so that the reviewer doesn't know if the writer is citing
+			Authors must submit <b>two versions</b> of their paper: a "publication" version that includes author/institution information, and an anonymized version. The goal of the anonymized version is to, as much as possible, allow the author(s) of the paper an unbiased review. The anonymized version should have ALL references to the authors removed (including author's names and affiliation plus identifying information within the body of the paper such as websites or related publications).  Self-citations need not be removed if they are worded  so that the reviewer doesn't know if the writer is citing
 himself/herself. That is, instead of writing "We
 reported on our first experiment with this work in 2007 in a previous
-paper [1]", the writer should write "In 2007, an initial experiment was
+paper [1]", the writer might write "In 2007, an initial experiment was
 done in this area as reported in [1]."</p>
             
-         <p>The publication version is available for use by the Program Committee. Both versions are limited to a maximum of 5 pages and must adhere to the <a href="format.php">SIGCSE 2010 Format Instructions</a>. <a href="http://www.acm.org/sigs/pubs/proceed/template.html">Templates are available in Word, WordPerfect, and LaTeX</a>.
+         <p>The publication version is available for use by the Program Committee. Both versions are limited to a <strong>maximum of 5 pages</strong> and must adhere to the <a href="format.php">SIGCSE 2010 Format Instructions</a>. <a href="http://www.acm.org/sigs/pubs/proceed/template.html">Templates are available in Word, WordPerfect, and LaTeX</a>.
 		</p>
 		<p>
 			If your paper is accepted you will have a chance to modify your publication version before it is published.
@@ -403,7 +403,7 @@ done in this area as reported in [1]."</p>
 
 <p>Please contact SIGCSE 2010 Program Chairs: <script>write_email( "sigcse10-pcs", "cs.xu.edu" );</script></p>
 
-<table border="0"><tr>
+<table border="0" cellpadding="20px"><tr>
 <td><p>Thomas Cortina<br/> 
 Carnegie Mellon University</p>
 </td><td> 
