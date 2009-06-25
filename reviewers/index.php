@@ -54,11 +54,11 @@
             <ul>
               <li> <strong>For New Reviewers</strong> <i>Review signup will be posted at later date.</i>
 
-<!--
+
                    <p style="font-size: 1.0em">
                    If you are interested in reviewing papers for SIGCSE 2010,
                    you are invited to complete the
-                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/reviewerRegistration.shtml">Reviewer Information Form</a>.-->
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/reviewerRegistration.shtml">Reviewer Information Form</a>.
                    Please limit yourself to areas in which you feel somewhat
                    expert. The system will automatically ask you to consider
                    the areas carefully if you choose more than four. 
@@ -74,16 +74,16 @@
                    </p>
 
                    <ul>
-                   <!--
+                   
                      <li> If you would like to update the information
                           in the database, go to the
                           <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/reviewerRegistration.shtml">Reviewer Information Form</a>
-                          by <strong class="warning">TBD, 2009</strong>.
+                          by <strong class="warning">September 11, 2009</strong>.
                           Please select your areas of reviewing carefully,
                           limiting yourself to areas in which you have
                           expertise.
                           </li>
--->
+                          
                      <li> If for some reason you do not want to continue
                           as a reviewer, please send e-mail to
                           <a href="mailto:sigcse@cs.grinnell.edu">sigcse@cs.grinnell.edu</a>

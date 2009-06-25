@@ -303,9 +303,7 @@ done in this area as reported in [1]."</p>
                    for assistance.
                    </li>
 
-              <li> Submit both versions using the <i>Online Paper Submission Form</i> <b>(coming soon)</b>
-              <!--
-                   <a href="http://www.cs.grinnell.edu/%7Esigcse/sigcse2010/submission.shtml">online Paper Submission Form</a>. -->
+              <li> Submit both versions using the <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">online Paper Submission Form</a>.
                    Note that there are several ways you must categorize
                    your paper submission in the online system. The broad
                    classification you choose allows the reviewer to
@@ -333,9 +331,7 @@ done in this area as reported in [1]."</p>
                    acceptance or rejection notification.
                    </li>
 
-              <li> After receiving confirmation, go to the <i>Author Verification Form</i> (<b>Coming Soon!</b>)
-              
-              <!--     <a href="http://www.cs.grinnell.edu/%7Esigcse/sigcse2010/submission.shtml">Author Verification Form</a> -->
+              <li> After receiving confirmation, go to the <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.  Send e-mail to
                    <a href="mailto:sigcse10-pcs@cs.xu.edu">sigcse10-pcs@cs.xu.edu</a>
                    (Thomas Cortina and Ellen Walker) if there are any

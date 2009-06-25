@@ -1,7 +1,7 @@
 <h2>IMPORTANT DATES</h2>
 <p><b>Friday, September 11, 2009</b>: Paper submissions due.</p> 
-<p><b>TBD</b>: Papers to Reviewers.</p>
-<p><b>TBD</b>: Reviews Due.</p>
+<p><b>Monday, September 14, 2009</b>: Papers to Reviewers.</p>
+<p><b>Wednesday, September 30, 2009</b>: Reviews Due.</p>
 
 <h2>For Reviewers</h2>
 

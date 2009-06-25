@@ -163,7 +163,7 @@
                    </li>
 
               <li> Submit the PDF version of your proposal using the
-                   <a href="http://www.cs.grinnell.edu/%7Esigcse/sigcse2010/submission.shtml">online Submission Form</a>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">online Submission Form</a>
                    Note that there are several
                    ways you must categorize your proposal submission in
                    the online system.  These categories are used to select
@@ -188,7 +188,7 @@
                    </li>
 
               <li> After receiving confirmation, go to the 
-                   <a href="http://www.cs.grinnell.edu/%7Esigcse/sigcse2010/submission.shtml">Author Verification Form</a>
+                   <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Author Verification Form</a>
                    to review your submission for accuracy.
                    Send e-mail to
                    <a href="mailto:sigcse10-panels@cs.xu.edu">sigcse10-panels@cs.xu.edu</a>

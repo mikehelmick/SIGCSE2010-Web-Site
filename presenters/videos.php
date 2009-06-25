@@ -100,6 +100,11 @@
   <li>Create and post a web-version of the video. Post the web-version of your video to YouTube.com. The review panel will view your YouTube video. If the video is accepted for publication a high-quality version will be required.</li>
   <li>Select, or create, a representative image. The representative images will be used in promotion and, possibly, on the DVD of exhibition videos. The representative image is typically a frame of the video. It could be the title image, or a particularly memorable image from the video. The representative image must be included in the submission form, so you need the image before completing the submission form.</li>
   <li>Complete a video proposal submission form. The submitter will complete the submission form (Word, Text or RTF) and email the completed form to <script>write_email( "sigcse10-videos", "cs.xu.edu" );</script>.</li>
+  <ul>
+    <li><img src="/sigcse2010/images/page_white_text.png" align="middle" /><a href="/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.txt" >Video Submission Form (as text)</a></li>
+    <li><img src="/sigcse2010/images/page_white_word.png" align="middle" /><a href="/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.rtf">Video Submission Form (as RTF)</a></li>
+    <li><img src="/sigcse2010/images/page_word.png" align="middle" /><a href="/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.doc">Video Submission Form (as Microsoft Word)</a></li>
+  </ul>
 </ol></p>
 
 <p><strong>Deadlines</strong>: dates are posted at the top of the page.</p>
