@@ -185,7 +185,7 @@
             <p>
             Program Chairs make all final decisions on accepting or
             rejecting papers on the basis of the papers, their reviews,
-            their meta-reviews (<strong class="note">new this year</strong>),
+            their meta-reviews,
             and a global effort to compose an excellent program.
             </p>
 

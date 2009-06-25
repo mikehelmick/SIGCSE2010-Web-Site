@@ -48,6 +48,12 @@
                    is due.  Your detailed feedback may help improve
                    a special session and, as a result, the conference.
                    </li>
+                   
+              <li><b>DISTINCTION BETWEEN PANELS AND SPECIAL SESSIONS:</b>
+Panels present multiple perspectives on a specific topic. Special sessions
+are an opportunity to customize and experiment with the SIGCSE conference
+format (e.g. a seminar on a new topic, a committee report, or a forum on
+curriculum issues) </li>    
             </ul>
 
 <div class="SectionHeader"><div class="Full">

@@ -83,7 +83,7 @@
                    <ul>
                      <li> <em>
                           There is a lot of interest in trying to teach
-                          Agile Methods within the traditional CS program.
+                          YYY within the traditional CS program.
                           This workshop has the potential to give attendees
                           a good rubric for doing this as well as providing
                           an infrastructure for implementing it.
@@ -99,7 +99,7 @@
                           </li>
 
                      <li> <em>
-                          GIS is important in many areas and has become a
+                          ZZZ is important in many areas and has become a
                           very common way to present information.
                           Making the topic available to this audience,
                           I believe, is very appropriate.
