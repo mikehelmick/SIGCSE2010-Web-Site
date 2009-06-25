@@ -98,7 +98,7 @@ University of California, San Diego <br/>
 Dave Musicant <br/>
 Carleton College <br/>
 <script>write_email( "dmusican", "carleton.edu" );</script></p>
- </td><td></td></tr>
+ </td><td><img src="/sigcse2010/pictures/davemotorcycle.jpg" /></td></tr>
  
  <tr class="header"><td colspan="2"><b>Registration</b></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap"><p>
