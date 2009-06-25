@@ -35,6 +35,7 @@
 <h2>Authors</h2>
 </div></div>   
             <p>
+            <!--
             Authors submit papers for double-blind review.
             The goal of the anonymized version is to, as much as possible,
             allow the author(s) of the paper an unbiased review.
@@ -43,7 +44,7 @@
             at the highest level, they may remove <strong>all</strong>
             references to the authors (including author's names and
             affiliation plus identifying information within the body
-            of the paper such as websites or related publications).
+            of the paper such as websites or related publications). -->
             After reviewing is complete, authors will see their reviews
             as in previous years.
             </p>

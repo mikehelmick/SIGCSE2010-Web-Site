@@ -52,26 +52,21 @@
             </p>
 
             <ul>
-              <li> <strong>For New Reviewers</strong> <i>Review signup will be posted at later date.</i>
+              <li> <strong>For New Reviewers</strong> <i>Review signup will be posted at later date.</i><br/>
 
 
-                   <p style="font-size: 1.0em">
                    If you are interested in reviewing papers for SIGCSE 2010,
                    you are invited to complete the
                    <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/reviewerRegistration.shtml">Reviewer Information Form</a>.
                    Please limit yourself to areas in which you feel somewhat
                    expert. The system will automatically ask you to consider
-                   the areas carefully if you choose more than four. 
-                   </p>
+                   the areas carefully if you choose more than four. <br/>&nbsp;
                    </li>
 
-              <li> <strong>For Those Who Have Previously Reviewed</strong>
-
-                   <p style="font-size: 1.0em">
-                   All people currently listed in the reviewer database
+              <li> <strong>For Those Who Have Previously Reviewed</strong><br/>
+				   All people currently listed in the reviewer database
                    will receive an e-mail message during August with their
                    current recorded information.
-                   </p>
 
                    <ul>
                    
@@ -105,16 +100,16 @@
 
  <p>
             Submissions are reviewed according to categories indicated
-            by the authors.  Reviewers will be assigned no more than four
-            submissions based on their indicated subject areas of expertise.
+            by the authors.  Reviewers will be assigned no more than three papers or six submissions of another type, based on their indicated subject areas of expertise.
             At least four reviewers are assigned to each.  Papers are only
-            available in electronic PDF format.  Reviewers must use a
-            browser capable of displaying PDF documents.
+            available in electronic PDF format.  Reviewers must use a Web
+            browser and software capable of displaying PDF documents (For example: <a href="http://get.adobe.com/reader/?promoid=BUIGO" target="_blank">Adobe Reader</a>).  
             </p>
+            
+            <p>The reviewing process has 3 simple steps:</p>
 
             <ol>
-              <li> You will be sent a reference number and password
-                   for each submission assigned to you. <!-- Become familiar
+              <li> When reviews are assigned, you will be sent the reference numbers for each submission you are reviewing along with a reminder of your reviewer ID and password. <!-- Become familiar
                    with the review criteria by looking at 
                    <a href="http://db.grinnell.edu/sigcse/sigcse2010/Reviewers/selectReviewForm.asp">Proposal Review Forms</a> for each category of submission. --> </li>
 
@@ -177,7 +172,7 @@
 <p>Please contact SIGCSE 2010 Program Chairs:
 <script>write_email( "sigcse10-pcs", "cs.xu.edu" );</script></p>
 
-<table border="0"><tr>
+<table border="0" cellpadding="15px"><tr>
 <td><p>Thomas Cortina<br/> 
 Carnegie Mellon University</p>
 </td><td> 
