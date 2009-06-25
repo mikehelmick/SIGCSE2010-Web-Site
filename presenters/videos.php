@@ -18,19 +18,19 @@
   <td width="50%" align="left" valign="top">
   <h3>Contents:</h3>
   <ul>
-    <li><a href="#whatis">What is The Channel SIGCSE Video Exhibition?</a></li>
-    <li><a href="#what">What will be on Chanel SIGCSE?</a></li>
-    <li><a href="#where">Where will people see my video?</a></li>
-    <li><a href="#kind">What kind of videos can I submit?</a></li>
-    <li><a href="#how">How do I submit a vide for exhibition?</a></li>
+    <li><a href="#whatis">What Is The Channel SIGCSE Video Exhibition?</a></li>
+    <li><a href="#what">What Will Be On Channel SIGCSE?</a></li>
+    <li><a href="#where">Where Will People See My Video?</a></li>
+    <li><a href="#kind">What Kind Of Videos Can I Submit?</a></li>
+    <li><a href="#how">How Do I Submit A Video For Exhibition?</a></li>
     <li><a href="#if">What If My Video Is Selected For Exhibition?</a></li>
-    <li><a href="#notowner">Can I proposa a video taht I didn't create?</a></li>
+    <li><a href="#notowner">Can I Propose A Video That I Didn't Create?</a></li>
   </ul>
   
   </td>
   <td width="50%" align="center" valign="top">
     <div id="GoodMessage">
-      <h2><a name="kind">Importand Dates for Video Submissions</a></h2>
+      <h2><a name="kind">Important Dates for Video Submissions</a></h2>
       
       <table>
        <tr>
@@ -61,22 +61,22 @@
 
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="what">What will be on Chanel SIGCSE?</a></h2>
+<h2><a name="what">What Will Be On Channel SIGCSE?</a></h2>
 </div></div>
 
-<p>You, your students, and your animations in the videos you submitted to the Channel SIGCSE video exhibition. Here’s your chance to share the dynamic material you haven’t had a good way to share - until now.</p>
+<p>You, your students, and your animations in the videos you submitted to the Channel SIGCSE video exhibition. Here's your chance to share the dynamic material you haven't had a good way to share - until now.</p>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="where">Where will people see my video?</a></h2>
+<h2><a name="where">Where Will People See My Video?</a></h2>
 </div></div>
 
 <p>On Channel SIGCSE, of course! Channel SIGCSE will be presented on video kiosks at the symposium during SIGCSE 2010. Channel SIGCSE also has a home on the web throughout the year</p>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="kind">What kind of videos can I submit?</a></h2>
+<h2><a name="kind">What kind Of Videos Can I Submit?</a></h2>
 </div></div>
 
-<p>We invite videos relevant to computer science education. These videos could include classroom lectures, demonstrations, or animations. The videos could be useful in today’s classroom or be of historical significance. For SIGCSE 2010 we prefer videos that highlight the conference theme. To that end, we are interested in videos that demonstrate real or dramatized challenging pedagogical situations or computing education research challenges. These videos should be capable of sparking discussion rather than demonstrating a proposed solution.</p>
+<p>We invite videos relevant to computer science education. These videos could include classroom lectures, demonstrations, or animations. The videos could be useful in today's classroom or be of historical significance. For SIGCSE 2010 we prefer videos that highlight the conference theme. To that end, we are interested in videos that demonstrate real or dramatized challenging pedagogical situations or computing education research challenges. These videos should be capable of sparking discussion rather than demonstrating a proposed solution.</p>
 
 <p>To be accepted, a video must be:<br />
 <ul>
@@ -87,12 +87,12 @@
 </p>
 
 <ol>
-  <li>Reasonable quality: There are many aspects of reasonable quality, and we won’t attempt to list them here; however, the panel will know reasonable quality when they see it. We’re not SIGGRAPH and this isn’t Sundance, so flaws are accepted (if not expected).</li>
+  <li>Reasonable quality: There are many aspects of reasonable quality, and we won't attempt to list them here; however, the panel will know reasonable quality when they see it. We're not SIGGRAPH and this isn't Sundance, so flaws are accepted (if not expected).</li>
   <li>Reasonable runtime: While the running time of a video will be a factor in the selection process, there is no hard limit for the running time of a video submission. As with any video production, you should strive for maximum impact in the least amount of time necessary.</li>
 </ol>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="how">How do I submit a vide for exhibition?</a></h2>
+<h2><a name="how">How Do I Submit A Video For Exhibition?</a></h2>
 </div></div>
 
 <p><ol>
@@ -131,7 +131,7 @@
 <p><b>Deadlines:</b> High-quality video must be submitted by the date listed above. All permission forms must be postmarked by the high-quality submission date. SIGCSE is not responsible for permission forms lost in the mail.</p>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="notowner">Can I proposa a video taht I didn't create?</a></h2>
+<h2><a name="notowner">Can I Propose A Video That I Didn't Create?</a></h2>
 </div></div>
 
 
