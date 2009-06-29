@@ -20,7 +20,7 @@
 
 <ul>
   <li><img src="/sigcse2010/images/lorry.png" align="absmiddle" /><a href="final_submission.php">Final Submission Instructions</a></li>
-  <li><img src="/sigcse2010/images/information.png" align="absmiddle" /><a href="format.php">Publication Guidelines</a></li>
+  <li><img src="/sigcse2010/images/information.png" align="absmiddle" /><a href="format.php">Formatting / Publication Guidelines</a></li>
   <li><img src="/sigcse2010/images/link_break.png" align="absmiddle" /><a href="no_show.php">Presenter No-Show Policy</a></li>
   <li><img src="/sigcse2010/images/page_white_acrobat.png" align="absmiddle" /><a href="/sigcse2010/presenters/creating_pdf.php">Creating PDFs</a></li>
   <li><img src="/sigcse2010/images/help.png" align="absmiddle" /><a href="/sigcse2010/faq/#submissions">FAQ</a></li>

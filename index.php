@@ -11,7 +11,30 @@
 <?php include("parts/middle.php"); ?>        
 
 	         <!-- right area -->
-            
+<p><b>I'm interested in...</b><br />             
+<table border="0" cellpadding="1px" cellspacing="0px">
+  <tr>
+    <td><img src="/sigcse2010/images/group.png" align="absmiddle" /><a href="/sigcse2010/presenters/index.php">Call for Participation</a></td>
+    <td style="padding-left:15px"><img src="/sigcse2010/images/page.png" align="absmiddle" /><a href="/sigcse2010/presenters/papers.php">Submitting a Paper</a></td>
+    <td style="padding-left:15px"><img src="/sigcse2010/images/information.png" align="absmiddle" /><a href="/sigcse2010/presenters/format.php">Formatting my Submission</a></td>
+  </tr>
+  <tr>
+    <td><img src="/sigcse2010/images/cog.png" align="absmiddle" /><a href="/sigcse2010/presenters/workshops.php">Submitting a Workshop Proposal</a></td>
+    <td style="padding-left:15px"><img src="/sigcse2010/images/user_suit.png" align="absmiddle" /><a href="/sigcse2010/presenters/panels.php" title="Panel Submission Guidelines">Panel Submissions</a></td>
+    <td style="padding-left:15px"><img src="/sigcse2010/images/award_star_gold_1.png" align="absmiddle" /><a href="/sigcse2010/presenters/special_sessions.php">Special Session Submissions</a></td>
+  </tr>
+  <tr>
+    <td><img src="/sigcse2010/images/television.png" align="absmiddle"/><a href="/sigcse2010/presenters/videos.php">Video Exhibition Submissions</a></td>
+    <td style="padding-left:15px"><img src="/sigcse2010/images/comments.png" align="absmiddle"/><a href="/sigcse2010/presenters/bof.php">Birds of a Feather Submissions</a></td>
+    <td style="padding-left:15px"><img src="/sigcse2010/images/monitor_edit.png" align="absmiddle" /><a href="/sigcse2010/reviewers/index.php">Being a reviewer</a></td>
+  </tr>
+  <tr>
+    <td><img src="/sigcse2010/images/photo.png" align="absmiddle"/><a href="/sigcse2010/presenters/posters.php">Poster Submissions</a></td>
+    <td style="padding-left:15px"><img src="/sigcse2010/images/chart_curve.png" align="absmiddle" /><a href="/sigcse2010/presenters/student_research.php">Student Research Competition</a></td>
+    <td style="padding-left:15px">&nbsp;</td>
+  </tr>
+</table>      
+</p>      
  
 <h1>Welcome!</h1>
 <p>The SIGCSE Technical Symposium addresses problems common among educators working to develop, implement and/or 
