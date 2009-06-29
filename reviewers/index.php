@@ -104,6 +104,8 @@
             At least four reviewers are assigned to each.  Papers are only
             available in electronic PDF format.  Reviewers must use a Web
             browser and software capable of displaying PDF documents (For example: <a href="http://get.adobe.com/reader/?promoid=BUIGO" target="_blank">Adobe Reader</a>).  
+            <i>Reviewers of videos must have a Web browser with the Adobe Flash plugin, capable of
+            viewing videos published on YouTube</i> (<a href="http://youtube.com/">YouTube.com</a>). 
             </p>
             
             <p>The reviewing process has 3 simple steps:</p>
