@@ -1,6 +1,6 @@
 
 <?php
- $title = "SIGCSE 2010 - Guidelines for Reviewers of Panels";
+ $title = "SIGCSE 2010 - Guidelines for Reviewers of BOF Submissions";
  $menu = "reviewers";
  include("../parts/top.php");
 ?>        <!-- <h2>Important Dates</h2> -->
