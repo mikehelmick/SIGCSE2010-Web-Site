@@ -19,4 +19,5 @@
    <li><img src="/sigcse2010/images/award_star_gold_1.png" align="absmiddle" /><a href="guide_sessions.php">Special Session Submissions</a></li>
    <li><img src="/sigcse2010/images/cog.png" align="absmiddle" /><a href="guide_workshops.php">Workshop Submissions</a></li>
    <li><img src="/sigcse2010/images/comments.png" align="absmiddle"/><a href="/sigcse2010/reviewers/guide_bofs.php">Birds of a Feather (BOF)</a></li>
+   <li><img src="/sigcse2010/images/photo.png" align="absmiddle"/><a href="/sigcse2010/reviewers/guide_posters.php">Posters</a></li>
 </ul>
