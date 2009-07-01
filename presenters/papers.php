@@ -29,7 +29,7 @@
   </td>
   <td width="50%" align="center" valign="top">
     <div id="GoodMessage">
-      <h2><a name="kind">Importand Dates for Paper Authors</a></h2>
+      <h2><a name="kind">Important Dates for Paper Authors</a></h2>
       
       <table>
        <tr>
