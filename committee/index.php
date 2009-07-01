@@ -117,7 +117,13 @@ Larry Merkle<br/>
 Wright State University<br/>
 &nbsp;<br/> 
 <script>write_email( "sigcse2010", "csse.rose-hulman.edu" );</script></p>
- </td><td><img src="/sigcse2010/pictures/merkle.jpg" /></td></tr>
+ </td><td>
+ <?php if (rand(0,2) == 0 ) 
+        echo "<img src=\"/sigcse2010/pictures/merkle.jpg\" />";
+ 	  else 
+	    echo "<img src=\"/sigcse2010/pictures/merkle-harley.jpg\" />";
+    ?>
+ </td></tr>
 
  <tr class="header"><td colspan="2"><b>Posters</b></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap">
