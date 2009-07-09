@@ -125,6 +125,7 @@ Cardinal Stritch University <br/>
  
 <p><b>Support/Exhibitor Liaison</b><br/>
 Susan Rodger<br/>
+Duke University<br />
 <script>write_email( "rodger", "cs.duke.edu" );</script></p>
   
 <p><b>Student Research Competition</b><br/>

@@ -132,6 +132,11 @@
                      <li> <img src="/sigcse2010/images/cog.png" align="absmiddle" />
                           <a href="guide_workshops.php">Guidelines for Reviewers of Workshop Submissions</a>
                           </li>
+                     <li><img src="/sigcse2010/images/comments.png" align="absmiddle"/>
+                     <a href="/sigcse2010/reviewers/guide_bofs.php">Guidelines for Reviewers Birds of a Feathers (BOFs) Submissions</a></li>
+   <li><img src="/sigcse2010/images/photo.png" align="absmiddle"/>
+   <a href="/sigcse2010/reviewers/guide_posters.php">Guidelines for Reviewers of Poster Submissions</a></li> 
+                          
                    </ul>
                    </li>
 <!--
