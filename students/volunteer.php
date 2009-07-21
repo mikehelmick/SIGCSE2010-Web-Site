@@ -25,7 +25,7 @@
             
             <p>
             To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our <a href="/sigcse2010//attendees/registration.php">SIGCSE 2010 registration page</a>)
-            AND you should <a href="https://www.surveymonkey.com/s.aspx?sm=PxFt0jKgLgj_2fq8LBrmgKiw_3d_3d">sign up to be a student volunteer</a>.
+            AND you should <a href="http://www.surveymonkey.com/s.aspx?sm=D_2b6QKGXqUwSZFhm_2fBMd_2fCg_3d_3d">sign up to be a student volunteer</a>.
             </p>
 
 <!--
@@ -220,7 +220,7 @@
             (the registration options are detailed on our
             <a href="/sigcse2010//attendees/registration.php">SIGCSE 2010 registration page</a>)
             AND you should 
-            <a href="https://www.surveymonkey.com/s.aspx?sm=PxFt0jKgLgj_2fq8LBrmgKiw_3d_3d">sign up to be a student volunteer</a>.
+            <a href="http://www.surveymonkey.com/s.aspx?sm=D_2b6QKGXqUwSZFhm_2fBMd_2fCg_3d_3d">sign up to be a student volunteer</a>.
             You must sign up to be a student volunteer prior to the
             conference itself (we cannot accept walk-in student volunteer
             applications at the conference).

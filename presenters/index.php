@@ -39,6 +39,9 @@ Special sessions are your opportunity to customize and experiment with the SIGCS
  
 <p><b>WORKSHOPS</b><br />
 Workshops provide introductory and advanced topics to help make participants more effective teachers and scholars. Workshop proposals (including abstract) must not exceed two pages. Submissions must specify equipment needs (e.g., participant laptops or projector required) and any limitation on the number of participants. Workshops are scheduled for a three-hour session and are offered separately from the technical track session times.</p>
+
+<p><b>STUDENT RESEARCH COMPETITION</b><br />
+The Student Research Competition (SRC) describes new, innovative computer science research conducted by both graduate and undergraduate students. Research abstracts are limited to two pages. Judges will review the research presentation via a poster and interview participants on their work. A group of semi-finalists will continue the competition by giving a short conference presentation.   </p>
  
 <p><b>BIRDS OF A FEATHER (BOF) SESSIONS</b><br />
 Birds of a Feather sessions provide an environment for colleagues with similar interests to meet for informal discussions. A maximum one-page description (including abstract) is requested to describe the informal discussion topic. A/V equipment will not be provided for these sessions. Approximately 45 minutes are allocated to each BOF topic. Submit for a regular BOF slot by November 2. 

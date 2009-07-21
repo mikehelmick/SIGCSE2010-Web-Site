@@ -219,10 +219,10 @@ Amazon.com, Amazon Web Services<br/>
 
  <tr class="header"><td colspan="2"><b>Local Arrangements</b></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap">  
-<p>Dennis Brylow <br/>
+<p>Dennis Brylow<br/>
 Marquette University <br/>
 <script>write_email( "brylow", "mscs.mu.edu" );</script></p>
- </td><td>&nbsp;</td></tr>
+ </td><td><img src="/sigcse2010/pictures/brylow.jpg" /></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap">
 <p>Mohsen M. Dorodchi  <br/>
 Cardinal Stritch University <br/>
