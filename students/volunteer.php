@@ -15,8 +15,8 @@
           
             <p>
             Student volunteers are an important part of the
-            SIGCSE Symposium and have been for many years.  Each volunteer
-            works for 5 hours, helping with various conference management
+            SIGCSE Symposium and have been for many years.  Each volunteer works for up to 6 hours, 
+            helping with various conference management
             activities.  You'll interact with the conference organizers
             and presenters and will meet other students from all over the
             world.  More information about the experience, the benefits,
