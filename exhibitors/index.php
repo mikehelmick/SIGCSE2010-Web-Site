@@ -68,7 +68,13 @@ and send us an email.</p>
 
 <ul>
  <li>The <a href="/sigcse2010/downloads/SIG_EP10_WebRes.pdf" target="_blank">SIGCSE 2010 Invitation to Exhibit / Conference Support Opportunities</a> document (PDF; opens in new window) provides details on how your organization can connect with our community. </li>
- 
+ <li>Here are two views of the SIGCSE 2008 Exhibit Hall. The 2010 conference is in a different location, but we hope that these views will give you a sense of what the 2010 exhibition space will look like. (Click on each for a larger version.)</li>
+ <table border="0" align="center">
+<tr>
+  <td><a href="images/2008Hall01.jpg" rel="lightbox[students]" title="2008 Exhibit Hall"><img src="images/2008Hall01_thumb.jpg" /></a></td>
+  <td><a href="images/2008Hall02.jpg" rel="lightbox[students]" title="2008 Exhibit Hall"><img src="images/2008Hall02_thumb.jpg" /></a></td>
+</tr>
+</table>
 </ul>
 
 
@@ -76,6 +82,16 @@ and send us an email.</p>
 <div class="SectionHeader"><div class="Full">
 <h2>SIGCSE 2010 Supporters and Exhibitors</h2>
 </div></div> 
+
+We thank all of our supporters and exhibitors for helping us make the conference a success:
+
+<table border="0" cellspacing="20px">
+ <tr>
+  <td align="center" valign="middle"><a href="http://www.microsoft.com/faculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td>
+  <td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td>
+  <td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td>
+ </tr> 
+</table> 
 
 <!--
  <ul> 

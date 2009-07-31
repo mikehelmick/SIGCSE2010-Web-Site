@@ -51,7 +51,16 @@ and interaction.</p>
 panel, poster and special sessions, as well as workshops, birds-of-a-feather, and informal settings at breaks and meals. We 
 celebrate and encourage these contacts that allow us to renew and make new connections as we discuss the challenges and 
 excitement of computer science education. </p>
- 
+
+<h1>Corporate Sponsors</h1>
+<table border="0" cellspacing="20px">
+ <tr>
+  <td align="center" valign="middle"><a href="http://www.microsoft.com/faculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td>
+  <td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td>
+  <td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td>
+ </tr> 
+</table> 
+
 	
     
 <?php
