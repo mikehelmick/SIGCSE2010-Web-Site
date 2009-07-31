@@ -63,7 +63,7 @@ Hiram College<br/>
 </td><td>&nbsp;</td></tr>
 <tr><td align="left" valign="top" nowrap="nowrap"><p>Ingrid Russell<br/>
  University of Hartford
-</td><td>&nbsp;</td></tr>
+</td><td><img src="/sigcse2010/pictures/irussell.jpg" /></td></tr>
 <tr><td align="left" valign="top" nowrap="nowrap"><p>Beth Simon<br/>
  University of California, San Diego
 </td><td>&nbsp;</td></tr>
