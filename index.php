@@ -52,7 +52,7 @@ panel, poster and special sessions, as well as workshops, birds-of-a-feather, an
 celebrate and encourage these contacts that allow us to renew and make new connections as we discuss the challenges and 
 excitement of computer science education. </p>
 
-<h1>Corporate Sponsors</h1>
+<h1>Platinum Supporters</h1>
 <table border="0" cellspacing="20px">
  <tr>
   <td align="center" valign="middle"><a href="http://www.microsoft.com/faculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td>

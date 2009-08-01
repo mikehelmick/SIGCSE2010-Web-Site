@@ -85,6 +85,8 @@ and send us an email.</p>
 
 We thank all of our supporters and exhibitors for helping us make the conference a success:
 
+<h2>Platinum Supporters</h2>
+
 <table border="0" cellspacing="20px">
  <tr>
   <td align="center" valign="middle"><a href="http://www.microsoft.com/faculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td>
@@ -105,6 +107,21 @@ We thank all of our supporters and exhibitors for helping us make the conference
  </ul>
  -->
 
+
+<div class="SectionHeader"><div class="Full">
+<h3>Exhibit Manager</h3>
+</div></div>
+
+<p>
+Dorothea Heck<br />
+D. Lawrence Planners LLC<br />
+SIGCSE Exhibition Management<br />
+1125 Atlantic Avenue STE 634<br />
+Atlantic City, NJ 08401<br />
+tel. 609.344.1333  <br />
+fax. 609.348.4433<br />
+E-mail: <script>write_email( "SIGCSE", "dlplan.com" );</script>
+</p>
 
             
  <?php
