@@ -157,7 +157,7 @@
 
                    </li> -->
 
-              <li> After reviewing, complete a report for each submission.
+              <li> After reviewing, complete a report for each submission.  Submit Reviews. <i>(coming soon)</i>
                    </li>
             </ol>
 
