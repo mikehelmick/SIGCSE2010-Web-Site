@@ -107,10 +107,23 @@ We thank all of our supporters and exhibitors for helping us make the conference
  </ul>
  -->
 
-
 <div class="SectionHeader"><div class="Full">
-<h3>Exhibit Manager</h3>
+<h2>Questions?</h2>
 </div></div>
+
+<p>Questions about supporting and exhibiting at SIGCSE 2009 can be  
+directed to the Exhibit Manager or our Supporter / Exhibitor Liason.</p>
+
+<h3>Supporter/Exhibitor Liason</h3>
+
+<p>Prof. Susan Rodger at Duke University is a long time attendee of SIGCSE and
+was a Symposium Co-Chair for SIGCSE 2008.<br />
+&nbsp;<br />
+Email: rodger@cs.duke.edu<br />
+Phone: 919-660-6595<br />
+</p>
+
+<h3>Exhibit Manager</h3>
 
 <p>
 Dorothea Heck<br />

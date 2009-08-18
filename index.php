@@ -10,28 +10,35 @@
 
 <?php include("parts/middle.php"); ?>        
 
+<table>
+<tr><td width="80%">
+
 	         <!-- right area -->
 <p><b>I'm interested in...</b><br />             
 <table border="0" cellpadding="1px" cellspacing="0px">
   <tr>
-    <td><img src="/sigcse2010/images/group.png" align="absmiddle" /><a href="/sigcse2010/presenters/index.php">Call for Participation</a></td>
-    <td style="padding-left:15px"><img src="/sigcse2010/images/page.png" align="absmiddle" /><a href="/sigcse2010/presenters/papers.php">Submitting a Paper</a></td>
-    <td style="padding-left:15px"><img src="/sigcse2010/images/information.png" align="absmiddle" /><a href="/sigcse2010/presenters/format.php">Formatting my Submission</a></td>
+    <td><img src="/sigcse2010/images/group.png" align="absmiddle" />&nbsp;<a href="/sigcse2010/presenters/index.php">Call for Participation</a></td>
+    <td style="padding-left:30px"><img src="/sigcse2010/images/information.png" align="absmiddle" />&nbsp;<a href="/sigcse2010/presenters/format.php">Formatting my Submission</a></td>
   </tr>
   <tr>
-    <td><img src="/sigcse2010/images/cog.png" align="absmiddle" /><a href="/sigcse2010/presenters/workshops.php">Submitting a Workshop Proposal</a></td>
-    <td style="padding-left:15px"><img src="/sigcse2010/images/user_suit.png" align="absmiddle" /><a href="/sigcse2010/presenters/panels.php" title="Panel Submission Guidelines">Panel Submissions</a></td>
-    <td style="padding-left:15px"><img src="/sigcse2010/images/award_star_gold_1.png" align="absmiddle" /><a href="/sigcse2010/presenters/special_sessions.php">Special Session Submissions</a></td>
+    <td><img src="/sigcse2010/images/page.png" align="absmiddle" />&nbsp;<a href="/sigcse2010/presenters/papers.php">Submitting a Paper</a></td>
+    <td style="padding-left:30px"><img src="/sigcse2010/images/cog.png" align="absmiddle" />&nbsp;<a href="/sigcse2010/presenters/workshops.php">Submitting a Workshop Proposal</a></td>
   </tr>
   <tr>
-    <td><img src="/sigcse2010/images/television.png" align="absmiddle"/><a href="/sigcse2010/presenters/videos.php">Video Exhibition Submissions</a></td>
-    <td style="padding-left:15px"><img src="/sigcse2010/images/comments.png" align="absmiddle"/><a href="/sigcse2010/presenters/bof.php">Birds of a Feather Submissions</a></td>
-    <td style="padding-left:15px"><img src="/sigcse2010/images/monitor_edit.png" align="absmiddle" /><a href="/sigcse2010/reviewers/index.php">Being a reviewer</a></td>
+    <td><img src="/sigcse2010/images/user_suit.png" align="absmiddle" />&nbsp;<a href="/sigcse2010/presenters/panels.php" title="Panel Submission Guidelines">Panel Submissions</a></td>
+    <td style="padding-left:30px"><img src="/sigcse2010/images/award_star_gold_1.png" align="absmiddle" />&nbsp;<a href="/sigcse2010/presenters/special_sessions.php">Special Session Submissions</a></td>
   </tr>
   <tr>
-    <td><img src="/sigcse2010/images/photo.png" align="absmiddle"/><a href="/sigcse2010/presenters/posters.php">Poster Submissions</a></td>
-    <td style="padding-left:15px"><img src="/sigcse2010/images/chart_curve.png" align="absmiddle" /><a href="/sigcse2010/presenters/student_research.php">Student Research Competition</a></td>
-    <td style="padding-left:15px">&nbsp;</td>
+    <td><img src="/sigcse2010/images/television.png" align="absmiddle"/>&nbsp;<a href="/sigcse2010/presenters/videos.php">Video Exhibition Submissions</a></td>
+    <td style="padding-left:30px"><img src="/sigcse2010/images/comments.png" align="absmiddle"/>&nbsp;<a href="/sigcse2010/presenters/bof.php">Birds of a Feather Submissions</a></td>
+  </tr>
+  <tr>
+    <td><img src="/sigcse2010/images/monitor_edit.png" align="absmiddle" />&nbsp;<a href="/sigcse2010/reviewers/index.php">Being a reviewer</a></td>
+    <td style="padding-left:30px"><img src="/sigcse2010/images/photo.png" align="absmiddle"/>&nbsp;<a href="/sigcse2010/presenters/posters.php">Poster Submissions</a></td>
+  </tr>
+  <tr>
+    <td><img src="/sigcse2010/images/chart_curve.png" align="absmiddle" />&nbsp;<a href="/sigcse2010/presenters/student_research.php">Student Research Competition</a></td>
+    <td style="padding-left:30px">&nbsp;</td>
   </tr>
 </table>      
 </p>      
@@ -52,14 +59,22 @@ panel, poster and special sessions, as well as workshops, birds-of-a-feather, an
 celebrate and encourage these contacts that allow us to renew and make new connections as we discuss the challenges and 
 excitement of computer science education. </p>
 
-<h1>Platinum Supporters</h1>
+</td>
+<td nowrap="nowrap" width="20%" align="center" valign="top">
+
+<h1>Platinum <br/>Supporters</h1>
 <table border="0" cellspacing="20px">
+ 
  <tr>
-  <td align="center" valign="middle"><a href="http://www.microsoft.com/faculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td>
-  <td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td>
-  <td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td>
+  <td align="center" valign="middle"><a href="http://www.microsoft.com/faculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td></tr>
+  <tr><td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td></tr>
+  <tr><td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td>
  </tr> 
 </table> 
+
+
+</td></tr></table>
+
 
 	
     
