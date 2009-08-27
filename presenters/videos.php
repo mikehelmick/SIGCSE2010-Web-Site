@@ -80,16 +80,41 @@
 
 <p>To be accepted, a video must be:<br />
 <ul>
-  <li>relevant to computer science educators</li>
-  <li>of reasonable technical quality (<strong>1</strong>) and running time (<strong>2</strong>)</li>
-  <li>submitted with a permission form from the copyright owner (see permission form below)</li>
+ <li>relevant to computer science educators</li>
+ <li>of reasonable quality (<strong>1</strong>) and running time
+(<strong>2</strong>)</li>
+ <li>submitted with a permission form from the copyright owner (see
+permission form below)</li>
+</ul>
+</p>
+
+<p>To be accepted, a video should:<br />
+<ul>
+ <li>include captioning</li>
 </ul>
 </p>
 
 <ol>
-  <li>Reasonable quality: There are many aspects of reasonable quality, and we won't attempt to list them here; however, the panel will know reasonable quality when they see it. We're not SIGGRAPH and this isn't Sundance, so flaws are accepted (if not expected).</li>
-  <li>Reasonable runtime: While the running time of a video will be a factor in the selection process, there is no hard limit for the running time of a video submission. As with any video production, you should strive for maximum impact in the least amount of time necessary.</li>
+ <li>Reasonable quality: There are many aspects of reasonable
+quality, both technical and artistic. We won't attempt to list
+detailed quality criteria here; however, the panel will know
+reasonable quality when they see it. We're not SIGGRAPH and this isn't
+Sundance, so flaws are accepted (if not expected). Things to avoid:
+periods of non-content, images/scenes with more extraneous items in
+view than the focus of the action/story, lengthy credits. You can look
+at <a href="http://www.cs.siue.edu/~dbouvie/channelsigcse/program_summary.htm">last
+year's program</a> to see examples of acceptable quality.</li>
+
+ <li>Reasonable runtime: While the running time of a video will be a
+factor in the selection process, there is no hard limit for the
+running time of a video submission. However, you may note that <a
+href="http://www.cs.siue.edu/~dbouvie/channelsigcse/program_summary.htm">last
+year's program</a> included videos as long as about 20 minutes
+(probably the upper limit) and many that were considerably shorter. As
+with any video production, you should strive for maximum impact in the
+least amount of time.</li>
 </ol>
+
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="how">How Do I Submit A Video For Exhibition?</a></h2>
