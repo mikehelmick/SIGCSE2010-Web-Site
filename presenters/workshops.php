@@ -175,7 +175,7 @@
                           </ol>
                           </li>
                      <li> <strong>Abstract (Description of the Workshop)</strong>:
-                          Describe your workshop in at most 100 words.
+                          Describe your workshop in at most 1000 characters.
                           This should match verbatim the abstract described
                           below.
                           </li>
