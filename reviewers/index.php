@@ -157,7 +157,7 @@
 
                    </li> -->
 
-              <li> After reviewing, complete a report for each submission.  Submit Reviews. <i>(coming soon)</i>
+              <li> After reviewing, complete a report for each submission.  Submit Reviews at <a href="http://db.grinnell.edu/sigcse/sigcse2010/Reviewers/reviewerViewing.asp">http://db.grinnell.edu/sigcse/sigcse2010/Reviewers/reviewerViewing.asp</a>.
                    </li>
             </ol>
 
