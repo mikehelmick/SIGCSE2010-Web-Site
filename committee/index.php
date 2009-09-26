@@ -221,7 +221,7 @@ Amazon.com, Amazon Web Services<br/>
  <tr><td align="left" valign="top" nowrap="nowrap">  
 <p>Dennis Brylow<br/>
 Marquette University <br/>
-<script>write_email( "brylow", "mscs.mu.edu" );</script></p>
+<script>write_email( "dennis.brylow", "mu.edu" );</script></p>
  </td><td><img src="/sigcse2010/pictures/brylow.jpg" /></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap">
 <p>Mohsen M. Dorodchi  <br/>

@@ -117,7 +117,7 @@ Amazon.com <br/>
 <p><b>Local Arrangements</b><br/>
 Dennis Brylow <br/>
 Marquette University <br/>
-<script>write_email( "brylow", "mscs.mu.edu" );</script><br/>
+<script>write_email( "dennis.brylow", "mu.edu" );</script><br/>
 &nbsp;<br/> 
 Mohsen M. Dorodchi  <br/>
 Cardinal Stritch University <br/>
