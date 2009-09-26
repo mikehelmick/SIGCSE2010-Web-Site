@@ -6,7 +6,7 @@
 ?>        <!-- <h2>Important Dates</h2> -->
      
 <h2>Have a question?</h2>
-<p>Find the appropraite SIGCSE 2010 
+<p>Find the appropriate SIGCSE 2010 
 <a href="/sigcse2010/committee/">program committee member</a> 
 and send us an email.</p>
 
@@ -112,9 +112,9 @@ We thank all of our supporters and exhibitors for helping us make the conference
 </div></div>
 
 <p>Questions about supporting and exhibiting at SIGCSE 2009 can be  
-directed to the Exhibit Manager or our Supporter / Exhibitor Liason.</p>
+directed to the Exhibit Manager or our Supporter / Exhibitor Liaison.</p>
 
-<h3>Supporter/Exhibitor Liason</h3>
+<h3>Supporter/Exhibitor Liaison</h3>
 
 <p>Prof. Susan Rodger at Duke University is a long time attendee of SIGCSE and
 was a Symposium Co-Chair for SIGCSE 2008.<br />

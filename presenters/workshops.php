@@ -105,7 +105,7 @@
             is the responsibility of the workshop leaders.  We recommend
             that the organizers of each hands-on workshop create their
             own web page (on their own server) with all necessary
-            software and instructions for installation.  To accommodate late registrations, we will collect these URLs and make them available (for registrants only) at on-site registration.  We will also provide presenters with mailing lists containing the emails of current enrollees after early registration closes on the SIGCSE website.
+            software and instructions for installation.  To accommodate late registrations, we will collect these URLs and make them available (for registrants only) at on-site registration.  We will also provide presenters with mailing lists containing the emails of current enrollees after early registration closes on the SIGCSE Web site.
             </p>
 
             <p>

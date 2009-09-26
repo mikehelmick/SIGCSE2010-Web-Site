@@ -7,7 +7,7 @@
 
 <ul>
   <li><img src="/sigcse2010/images/monitor_edit.png" align="absmiddle" /><a href="/sigcse2010/reviewers/" title="Reviewer Information">Reviewer Information</a></li>
-  <li><img src="/sigcse2010/images/transmit_blue.png" align="absmiddle" />Submit Reviews (coming soon)</li>
+  <li><img src="/sigcse2010/images/transmit_blue.png" align="absmiddle" /><a href="http://db.grinnell.edu/sigcse/sigcse2010/Reviewers/reviewerViewing.asp">View Assignments / Submit Reviews</a></li>
   <!-- http://db.grinnell.edu/sigcse/sigcse2009/Reviewers/reviewerViewing.asp -->
   <li><img src="/sigcse2010/images/help.png" align="absmiddle" /><a href="/sigcse2010/faq/#reviewers">FAQ</a></li>
 </ul>

@@ -102,7 +102,7 @@ for a lightning BOF.</p>
 
             <p>
             BOF proposals are to be provided in PDF format.  The full
-            proposal contains an up to 100-word BOF abstract (description)
+            proposal contains an up to 1000-character BOF abstract (description)
             which must also be entered into a text box on the submission
             page.  The format for the BOF proposal is as follows.
             </p>
@@ -128,7 +128,7 @@ for a lightning BOF.</p>
                      <li> <strong>Title</strong>: A title for the BOF.
                           </li>
                      <li> <strong>Abstract (Description)</strong>:
-                          100 word description of the BOF.  The same abstract
+                          1000 character description of the BOF.  The same abstract
                           will also need to be submitted via a text box on the
                           submission page.  Please be sure that your description
                           is accurate and that both submitted copies (here in the
@@ -179,13 +179,13 @@ for a lightning BOF.</p>
                    </ol>
                    </li>
 
-              <li> <strong>BOF Abstract (limited to 100 words)
+              <li> <strong>BOF Abstract (limited to 1000 characters)
                    </strong>
 
                    <p style="font-size: 1.0em">
                    The abstract is the description of the BOF that will
                    appear on the conference web pages.  The description
-                   is limited to 100 words and must match verbatim the
+                   is limited to 1000 characters and must match verbatim the
                    abstract section of the BOF Proposal. 
                    The BOF abstract must be submitted in plain text.
                    The abstract for an accepted proposal may contain a URL
@@ -222,7 +222,7 @@ for a lightning BOF.</p>
               <li> Submit the PDF version of your proposal using the
                    <a href="http://www.cs.grinnell.edu/~sigcse/sigcse2010/submission.shtml">Birds of a Feather online submission form</a>.
                    Recall that you will also need to cut-and-paste or type
-                   your 100-word text abstract description into a text box
+                   your 1000-character text abstract description into a text box
                    during the submission process.  Please do not wait until
                    the last minute to submit your documents because that
                    is when everyone else will be connecting to our server!

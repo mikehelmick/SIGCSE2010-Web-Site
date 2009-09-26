@@ -6,7 +6,7 @@
 ?>        <!-- <h2>Important Dates</h2> -->
      
 <h2>Have a new question?</h2>
-<p>Find the appropraite SIGCSE 2010 
+<p>Find the appropriate SIGCSE 2010 
 <a href="/sigcse2010/committee/">program committee member</a> 
 and send us an email.</p>
 
