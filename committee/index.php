@@ -182,7 +182,7 @@ University of British Columbia<br />
 <p>Henry Walker <br/>
 Grinnell College <br/>
 <script>write_email( "walker", "cs.grinnell.edu" );</script></p>
- </td><td>&nbsp;</td></tr>
+ </td><td><img src="/sigcse2010/pictures/hmw-motorscooter-1.jpg" /></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap">
 <p>John Dooley <br/>
 Knox College <br/>
