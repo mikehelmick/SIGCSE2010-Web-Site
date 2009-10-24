@@ -89,7 +89,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
 
 <table border="0" cellspacing="20px">
  <tr>
-  <td align="center" valign="middle"><a href="http://www.microsoft.com/faculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td>
+  <td align="center" valign="middle"><a href="http://www.microsoft.com/usfaculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td>
   <td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td>
   <td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td>
  </tr> 

@@ -69,7 +69,7 @@ Hiram College<br/>
 </td><td>&nbsp;</td></tr>
 <tr><td align="left" valign="top" nowrap="nowrap"><p>Ursula Wolz<br/>
  The College of New Jersey
-</td><td>&nbsp;</td></tr>
+</td><td><img src="/sigcse2010/pictures/ursula.jpg" /></td></tr>
 
  
  

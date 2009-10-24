@@ -56,7 +56,7 @@
 <h2><a name="verification">Database Information Verification</a></h2>
 </div></div> 
 
-<p><strong style="color: #FF0000;">Due by Saturday, November 9, 2009</strong></p>
+<p><strong style="color: #FF0000;">Due by Monday, November 9, 2009</strong></p>
 
             <ul>
               <li> Double-check the information about your submission
