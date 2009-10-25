@@ -1,8 +1,5 @@
 <h2>Important Dates</h2>
-<p><b>Monday, November 2, 2009</b>: Birds of a Feather, Poster, and Video submissions due.</p>
-
-<p><i>Deadlines are @11:59 p.m. Hawaii-Aleutian Standard Time (HST)</i></p>
-
+<p>The early registration deadline is <strong>Sunday, January 31st, 2010</strong></p>
 
         <h2>News</h2>
         <ul>
