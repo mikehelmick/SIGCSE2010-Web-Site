@@ -11,9 +11,11 @@
 <?php include("parts/middle.php"); ?>        
 
 <table>
-<tr><td width="80%">
+<tr><td width="80%" valign="top">
 
 	         <!-- right area -->
+
+<!--
 <p><b>I'm interested in...</b><br />             
 <table border="0" cellpadding="1px" cellspacing="0px">
   <tr>
@@ -41,7 +43,8 @@
     <td style="padding-left:30px">&nbsp;</td>
   </tr>
 </table>      
-</p>      
+</p>
+-->      
  
 <h1>Welcome!</h1>
 <p>The SIGCSE Technical Symposium addresses problems common among educators working to develop, implement and/or 

@@ -214,7 +214,7 @@ qualified to review?</em>
                     SIGCSE 2010 does not issue formal invitation letters.
                     The Association for Computing Machinery can, however,
                     issue a visa support letter.   Please visit the
-                    <a href="/sigcse2010/visas.php">Visa Information for International Travelers</a>
+                    <a href="/sigcse2010/attendees/visas.php">Visa Information for International Travelers</a>
                     page for details.
                     </p>
 

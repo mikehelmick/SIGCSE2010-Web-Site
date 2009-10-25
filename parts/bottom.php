@@ -14,7 +14,8 @@
           
           
           Copyright &copy; 2009, SIGCSE <br/>        
-          This page was last updated: <?php print(date("F jS, Y @ h:i T", $updated)); ?><br/>       
+          This page was last updated: <?php date_default_timezone_set('America/Los_Angeles');
+		                                    print(date("F jS, Y @ h:i T", $updated)); ?><br/>       
           <?php if ( $mainPage == true ) {
 		          print( "SIGCSE 2010 Logo designed by Cortny Helmick <script>write_email( \"cortny.helmick\", \"gmail.com\" );</script> | " );
 		         }
