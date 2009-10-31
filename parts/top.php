@@ -18,7 +18,7 @@
     <link href="http://sigcse2010.blogspot.com/feeds/posts/default" rel="alternate" title="RSS" type="application/rss+xml" />
 </head>
 
-<body>
+<body onload="remove_frames();">
 
 <div id="navcontainer">
 <table width="100%" border="0" >

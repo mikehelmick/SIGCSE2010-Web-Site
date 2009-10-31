@@ -83,7 +83,8 @@ operating system and a rich set of developer services that allow you to build ne
 </div></div>
 <br/>
 
-<p>The Department Chairs Pre-Symposium Workshop is an opportunity for all department chairs (experienced and inexperienced) to improve their understanding of their duties and their ability to perform them.  Four experienced former department chairs will serve as resources for the group as the participants discuss the duties of the department chair and explore ways that chairs can do their jobs efficiently and effectively.</p>
+<p>The Pre-Symposium Workshop for Department Chairs is an opportunity for all department chairs (experienced and inexperienced) to improve their understanding of their duties and their ability to perform them.  Participants should also include those interested in becoming department chairs.  Four experienced former department chairs will serve as resources for the group as the participants review and discuss the duties of the department chair and explore ways that chairs can do their jobs efficiently and effectively.  Some specific discussion topics will include leadership styles, time management, legal issues, academic program assessment, and faculty promotion and tenure.
+</p>
 
 <p>Contact: Sandra DeLoatch <script>write_email("sjdeloatch", "nsu.edu");</script>, Joyce Little <script>write_email("jclittle", "towson.edu");</script>, Frank Friedman <script>write_email("friedman", "temple.edu");</script>, Dianne Martin <script>write_email("dmartin", "gwu.edu");</script></p>
 
