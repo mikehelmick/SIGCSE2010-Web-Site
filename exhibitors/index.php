@@ -96,6 +96,69 @@ We thank all of our supporters and exhibitors for helping us make the conference
  </tr> 
 </table> 
 
+<h2>Gold Supporters</h2>
+
+
+<table border="0" cellspacing="20px">
+ <tr>
+  <td align="center" valign="middle"><b>IBM</b>
+  </td>
+ </tr>
+</table>
+
+<div class="SectionHeader"><div class="Full">
+<h2>In-Kind Doncations</h2>
+</div></div>
+
+<ul>
+  <li><a href="http://www.turingscraft.com/">Turing's Craft</a>: Volunteer's T-shirts</li>
+  <li><a href="http://www.acm.org/upe"/>Upsilon Pi Epsilon</a>: Volunteer Pizza Party</li>
+</ul>
+
+<div class="SectionHeader"><div class="Full">
+<h2>Exhibitors</h2>
+</div></div>
+
+<table border="0" cellpadding="5" cellspacing="5">
+ <tr>
+   <td align="left" valign="top">
+    <ul>
+      <li>ACM-W</li>
+      <li>AK Peters</li>
+      <li>Auburn University</li>
+      <li>Broadening Participation in Computing (BPC)</li>
+      <li>Council of International Exchange of Scholars</li>
+      <li>Course Technology Cengage Learning</li>
+      <li>CRC Press- Taylor &amp; Francis Group</li>
+      <li>Franklin, Beedle &amp; Associates</li>
+      <li>Google</li>
+     <li>IBM Corporation</li>
+     <li>Industrial Logic, Inc.</li>
+     <li>Intel Corporation</li>
+     <li>InterSystems Corporation</li> 
+    </ul>
+   </td>
+   <td align="left" valign="top">
+    <ul>
+    <li>Jones and Bartlett Publishers</li> 
+     <li>LEGO Education, North America</li>
+     <li>Microsoft </li>
+     <li>Morgan Kaufmann/Elsevier</li>
+     <li>NSF</li>
+    
+     <li>Paradigm Publishing</li>
+     <li>Pearson Higher Education</li>
+     <li>Project AlgoViz, Department of Computer Science, Virginia Tech</li>
+     <li>RidgeSoft, LLC</li>
+     <li>Springer</li>
+     <li>Sun Microsystems</li>
+     <li>The MIT Press</li>
+     <li>Wiley </li>
+    </ul>
+   </td>
+ </tr>
+</table>
+
 <!--
  <ul> 
               <li> <strong style="font-size: 1.40em">Platinum Plus Supporters</strong> </li>
