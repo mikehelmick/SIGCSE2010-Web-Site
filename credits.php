@@ -20,7 +20,7 @@
 <p>
   <ul>
     <li>SIGCSE 2010 Logo designed by Cortny Helmick <script>write_email( "cortny.helmick", "gmail.com" );</script></li>
-    <li>The SIGCSE 2010 Webmater is Mike Helmick <script>write_email( "mike.helmick", "gmail.com" );</script></li>
+    <li>The SIGCSE 2010 Webmaster is Mike Helmick <script>write_email( "mike.helmick", "gmail.com" );</script></li>
   
     <li>The icon set used on this Web site is provided free under the Creative Commons License from famfamfam.com. <a href="http://www.famfamfam.com/lab/icons/silk/">http://www.famfamfam.com/lab/icons/silk/</a></li>
   </ul>    

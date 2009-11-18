@@ -233,7 +233,7 @@ Cardinal Stritch University <br/>
 <p>Andrew Kuemmel  <i>(Accessibility Coordinator)</i><br/>
 Madison West High School <br/>
 <script>write_email( "andykuemmel", "yahoo.com" );</script></p>
- </td><td>&nbsp;</td></tr>
+ </td><td><img src="/sigcse2010/pictures/andrew_kuemmel.jpg" /></td></tr>
 
  <tr class="header"><td colspan="2"><b>Support/Exhibitor Liaison</b></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap">  

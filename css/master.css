@@ -595,9 +595,10 @@ div.Left li {
 
 /** general content */
 .SectionHeader {
-	margin: 5px 0 0px 0;
+	margin: 10px 0 0px 0;
 	border-bottom: 1px solid #000000;
-	padding-bottom: 5px;
+	padding-bottom: -1px;
+	padding-top: 20px;
 }
 
 .SectionHeader h2 {
