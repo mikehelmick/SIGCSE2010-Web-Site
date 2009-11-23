@@ -65,7 +65,7 @@ Reservations by phone:<br/>
 <div class="SectionHeader"><div class="Full">
 <h2>Roommate Matching</h2>
 </div></div>
-<p>We recognize that many SIGCSE attendees work at schools with very limited -- even nonexistent! -- travel budgets.  To help you reduce your cost to participate in the symposium, we are happy to once again provide assistance with roommate matching: <a href="http://www.cs.rit.edu/sigcse/">The SIGCSE 2009 Roommate Database</a>. Once registered, you can input your preferences and see other registrants who have compatible preferences.  The rest is up to you!</p>
+<p>We recognize that many SIGCSE attendees work at schools with very limited -- even nonexistent! -- travel budgets.  To help you reduce your cost to participate in the symposium, we are happy to once again provide assistance with roommate matching: <a href="http://www.cs.rit.edu/sigcse/">The SIGCSE 2010 Roommate Database</a>. Once registered, you can input your preferences and see other registrants who have compatible preferences.  The rest is up to you!</p>
 
 <p>The roommate database is hosted by the <a href="http://www.cs.rit.edu/">Rochester Institute of Technology Department of Computer Science</a> and is administered by <a href="http://www.cs.rit.edu/~ptt/">Paul Tymann</a>. Please <a href="mailto:ptt@cs.rit.edu">contact Paul</a> with any questions that you may have about this service.</p>
 

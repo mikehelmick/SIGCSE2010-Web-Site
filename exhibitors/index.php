@@ -96,6 +96,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
  </tr> 
 </table> 
 
+<!--
 <h2>Gold Supporters</h2>
 
 
@@ -105,6 +106,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
   </td>
  </tr>
 </table>
+-->
 
 <div class="SectionHeader"><div class="Full">
 <h2>In-Kind Doncations</h2>
@@ -124,6 +126,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
    <td align="left" valign="top">
     <ul>
       <li>ACM-W</li>
+      <li>ACM SIGAda</li>
       <li>AK Peters</li>
       <li>Auburn University</li>
       <li>Broadening Participation in Computing (BPC)</li>
@@ -145,7 +148,6 @@ We thank all of our supporters and exhibitors for helping us make the conference
      <li>Microsoft </li>
      <li>Morgan Kaufmann/Elsevier</li>
      <li>NSF</li>
-    
      <li>Paradigm Publishing</li>
      <li>Pearson Higher Education</li>
      <li>Project AlgoViz, Department of Computer Science, Virginia Tech</li>
@@ -153,6 +155,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
      <li>Springer</li>
      <li>Sun Microsystems</li>
      <li>The MIT Press</li>
+     <li>Turing’s Craft</li>
      <li>Wiley </li>
     </ul>
    </td>
