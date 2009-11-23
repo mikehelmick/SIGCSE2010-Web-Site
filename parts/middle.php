@@ -3,7 +3,7 @@
 
 
 <?php 
-if (rand(0,2) == 0 ) {
+if (rand(0,1) == 0 ) {
     include("google.php");
 	echo "<br/>";
 	include("bing.php");
