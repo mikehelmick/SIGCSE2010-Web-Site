@@ -20,7 +20,6 @@
   <ul>
     <li><a href="#airline">Airline Service</a></li>
     <li><a href="#shuttle">Go Airport Shuttles</a></li>
-    <li><a href="#taxis">Taxis and Hotel Shuttles</a></li>
     <li><a href="#rentals">Car Rentals</a></li>
     <li><a href="#parking">Daily Parking</a></li>
   </ul>
@@ -43,11 +42,6 @@ through the customized portal at <a href="http://goairportconnection.hudsonltd.n
 take them to the customized portal.</p>
 
 <div class="SectionHeader"><div class="Full">
-<h2><a name="taxis">&nbsp;</a>Taxis and Hotel Shuttles</h2>
-</div></div>
-<div class="errorExplanation">Information coming soon.</div>
-
-<div class="SectionHeader"><div class="Full">
 <h2><a name="rentals">&nbsp;</a>Car Rentals</h2>
 </div></div>
 <div class="errorExplanation">Information coming soon.</div>
@@ -55,7 +49,10 @@ take them to the customized portal.</p>
 <div class="SectionHeader"><div class="Full">
 <h2><a name="parking">&nbsp;</a>Daily Parking</h2>
 </div></div>
-<div class="errorExplanation">Information coming soon.</div>
+
+<ul>
+ <li>Convention Center Parking</li>
+</ul>
 
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );

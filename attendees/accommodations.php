@@ -40,12 +40,19 @@ Reservations by phone:<br/>
 <ul>
  <li>Check-in at 3 pm</li>
  <li>Check-out at noon</li>
+ <li>Parking for $25 a day</li>
 </ul>
   </td>
   <td>
 <p><b>Hilton City Center Information</b></p>
 
-<p>Online Reservations Coming Soon<br/>
+<p><a href="http://www.hilton.com/en/hi/groups/personalized/MKEMHHF-ACM-20100309/index.jhtml">Online Reservations</a><br/>
+<ul>
+ <li>Group Name:  SIGCSE 2010</li>
+ <li>Group Code:  ACM</li>
+</ul>
+
+<br/>
 Reservations by phone:<br/>
 1-414-271-7250 : Group Name: SIGCSE 2010</p>
 

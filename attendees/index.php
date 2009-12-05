@@ -14,6 +14,8 @@
 
 <h1>Information for Attendees</h1>
 
+<p>SIGCSE 2010 will take place in the Midwest Airlines Center in Milwaukee, WI.  The two conference hotels, the Hyatt Regency and the Hilton City Center, are connected to the Center by heated skywalk. Unless otherwise noted, all room numbers refer to the Midwest Airlines Center.</p>
+
 <table border="0">
 <tr>
 <td valign="top" width="40%" nowrap="nowrap">
@@ -42,6 +44,8 @@
       <h2><a name="kind">Important Information for<br/>Symposium Attendees</a></h2>
       
       <p>We are filling in information on the attendees portion of the Web site as we get it.  Please check back often for updates.</p>
+      
+      <p>Pre-symposium event timing varies by event.  If the times are not listed on the <a href="/sigcse2010/attendees/pre_symposium_events.php">pre-symposium event page</a>, please contact event organizers for details.</p>
   </div>
 </td>
 </tr>

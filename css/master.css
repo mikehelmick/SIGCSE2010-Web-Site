@@ -219,6 +219,11 @@ div#headerright a:hover {
 #active a { border-left: 1px solid #1463B4; }
 
 
+.imgRight {
+	float: right;
+	padding-left: 20px;
+}
+
 /** ERRORS **/
 
 #GoodMessage {

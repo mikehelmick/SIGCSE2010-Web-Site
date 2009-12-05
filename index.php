@@ -14,6 +14,8 @@
 <tr><td width="80%" valign="top">
 
 	         <!-- right area -->
+             
+<div class="GoodMessage"><a href="/sigcse2010/attendees/registration.php">SIGCSE 2010 Symposium registration is now open!</a></div>
 
 <!--
 <p><b>I'm interested in...</b><br />             

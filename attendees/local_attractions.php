@@ -16,7 +16,11 @@
       
 <div class="errorExplanation">Information is coming soon!</div>  
 
-<p>Guide to local Milwaukee pubs: <a href="http://www.budgettravel.com/bt-dyn/content/article/2009/03/10/AR2009031002030.html">budgettravel.com</a></p>
+<ul>
+  <li><a href="http://www.paradiselanding.com/">Paradise Landing (Waterpark)</a></li>
+  <li>Guide to local Milwaukee pubs: <a href="http://www.budgettravel.com/bt-dyn/content/article/2009/03/10/AR2009031002030.html">budgettravel.com</a></li>
+
+</ul>
 
 
 <?php

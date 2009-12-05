@@ -141,7 +141,7 @@ least amount of time.</li>
 <p>All submitted videos will be panel-reviewed. For the videos selected for exhibition, the submitters are required to:
 
 <ol>
-  <li>Download and complete the permission form (Word or PDF). We need a signature, so mail (snail-mail) the completed and signed form to:
+  <li>Download and complete the permission form (<a href="/sigcse2010/downloads/SIGCSE2010VideoPermissionForm.doc">Word</a> or <a href="/sigcse2010/downloads/SIGCSE2010VideoPermissionForm.pdf">PDF</a>). We need a signature, so mail (snail-mail) the completed and signed form to:
   <pre>
       Dennis Bouvier
       SIUE Computer Science

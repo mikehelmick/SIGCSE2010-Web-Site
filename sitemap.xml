@@ -8,131 +8,277 @@
 
 <url>
   <loc>http://www.sigcse.org/sigcse2010/</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/reviewers/</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/attendees/</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/students/</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/faq/</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/exhibitors/</loc>
-</url>
-<url>
-  <loc>http://www.sigcse.org/sigcse2010/blog/</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/press/</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/committee/</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/credits.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/papers.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/panels.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/special_sessions.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/student_research.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/workshops.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/videos.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/posters.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/bof.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/final_submission.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/format.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/no_show.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/presenters/creating_pdf.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/downloads/sigcse10-cfp.pdf</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/reviewers/guide_papers.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/reviewers/guide_panels.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/reviewers/guide_sessions.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/reviewers/guide_workshops.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/reviewers/guide_bofs.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/reviewers/guide_posters.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/attendees/registration.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/reception.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/fees.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/pre_symposium_events.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/supporter_sessions.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/special_projects.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/bonus_activities.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/video_program.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/travel_information.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/accommodations.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/floor_plans.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/kids_camp.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/visas.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/local_attractions.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/students/research.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/students/volunteer.php</loc>
-</url>
-<url>
-  <loc>http://www.sigcse.org/sigcse2010/visas.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/downloads/SIG_EP10_WebRes.pdf</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/downloads/workshopProposalsample.doc</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/downloads/workshopProposalsample.pdf</loc>
-</url>
-<url>
-  <loc>http://www.sigcse.org/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.doc</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.txt</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.rtf</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.sigcse.org/sigcse2010/downloads/SIGCSE2010_VideoPermissionForm.doc</loc>
-</url>
-<url>
-  <loc>http://www.sigcse.org/sigcse2010/downloads/SIGCSE2010_VideoPermissionForm.pdf</loc>
+  <loc>http://www.sigcse.org/sigcse2010/downloads/SIGCSE2010_VideoSubmissionForm.doc</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/downloads/BOFSample.doc</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/downloads/BOFSample.pdf</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 <url>
   <loc>http://www.sigcse.org/sigcse2010/reviewers/metareviews.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.sigcse.org/sigcse2010/attendees/downloads/ner_writeup.pdf</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
 </url>
 </urlset>

@@ -25,10 +25,17 @@
 
 
 <div class="SectionHeader"><div class="Full">
-<h2>On- and Off-Line (Remote) Registration</h2>
+<h2>Online and Offline (Remote) Registration</h2>
 </div></div><br/>
 
-<div class="errorExplanation">Registration is not yet open.</div>  
+<ul>
+ <li><a href="http://www.regonline.com/sigcse2010">Online Registration</a> via regonline.com</li>
+ <li>Register by Mail</li>
+ <ul>
+   <li><img src="/sigcse2010/images/page_white_acrobat.png" /><a href="downloads/RegistrationForm.pdf">Registration Form (PDF)</a></li>
+   <li><img src="/sigcse2010/images/page_white_word.png"  /><a href="downloads/RegistrationForm.docx">Registration Form (Microsoft Word - docx format)</a></li>
+ </ul>
+</ul>
 
 <div class="SectionHeader"><div class="Full">
 <h2>On-Site Registration</h2>

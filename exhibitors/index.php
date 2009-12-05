@@ -68,6 +68,9 @@ and send us an email.</p>
 
 <ul>
  <li>The <a href="/sigcse2010/downloads/SIG_EP10_WebRes.pdf" target="_blank">SIGCSE 2010 Invitation to Exhibit / Conference Support Opportunities</a> document (PDF; opens in new window) provides details on how your organization can connect with our community. </li>
+ 
+ <li>View the <a href="images/ACM_2010_Milwaukee_fp1.pdf">exhibit hall floorplan</a> for Milwaukee</li>
+ 
  <li>Here are two views of the SIGCSE 2008 Exhibit Hall. The 2010 conference is in a different location, but we hope that these views will give you a sense of what the 2010 exhibition space will look like. (Click on each for a larger version.)</li>
  <table border="0" align="center">
 <tr>
@@ -109,10 +112,11 @@ We thank all of our supporters and exhibitors for helping us make the conference
 -->
 
 <div class="SectionHeader"><div class="Full">
-<h2>In-Kind Doncations</h2>
+<h2>In-Kind Donations</h2>
 </div></div>
 
 <ul>
+  <li><a href="http://www.microsoft.com/">Microsoft</a>: Kid's Camp Computers and t-shirts</li>
   <li><a href="http://www.turingscraft.com/">Turing's Craft</a>: Volunteer's T-shirts</li>
   <li><a href="http://www.acm.org/upe"/>Upsilon Pi Epsilon</a>: Volunteer Pizza Party</li>
 </ul>
@@ -129,21 +133,21 @@ We thank all of our supporters and exhibitors for helping us make the conference
       <li>ACM SIGAda</li>
       <li>AK Peters</li>
       <li>Auburn University</li>
-      <li>Broadening Participation in Computing (BPC)</li>
+      <li>Broadening Participation in Computing (BPC)</li>    
       <li>Council of International Exchange of Scholars</li>
       <li>Course Technology Cengage Learning</li>
-      <li>CRC Press- Taylor &amp; Francis Group</li>
+      <li>CRC Press-Taylor &amp; Francis Group</li>
       <li>Franklin, Beedle &amp; Associates</li>
       <li>Google</li>
      <li>IBM Corporation</li>
      <li>Industrial Logic, Inc.</li>
      <li>Intel Corporation</li>
      <li>InterSystems Corporation</li> 
+     <li>Jones and Bartlett Publishers</li> 
     </ul>
    </td>
    <td align="left" valign="top">
     <ul>
-    <li>Jones and Bartlett Publishers</li> 
      <li>LEGO Education, North America</li>
      <li>Microsoft </li>
      <li>Morgan Kaufmann/Elsevier</li>
@@ -154,8 +158,9 @@ We thank all of our supporters and exhibitors for helping us make the conference
      <li>RidgeSoft, LLC</li>
      <li>Springer</li>
      <li>Sun Microsystems</li>
+     <li>The College Board</li>
      <li>The MIT Press</li>
-     <li>Turing’s Craft</li>
+     <li>Turing's Craft</li>
      <li>Wiley </li>
     </ul>
    </td>
