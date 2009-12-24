@@ -67,16 +67,22 @@ excitement of computer science education. </p>
 </td>
 <td nowrap="nowrap" width="20%" align="center" valign="top">
 
+<h1>Platinum Plus<br/>Supporter</h1>
+<table border="0" cellspacing="20px">
+  <tr><td align="center" valign="middle"><a href="http://www.microsoft.com/usfaculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td></tr>
+</table>
+
 <h1>Platinum <br/>Supporters</h1>
 <table border="0" cellspacing="20px">
- 
- <tr>
-  <td align="center" valign="middle"><a href="http://www.microsoft.com/usfaculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td></tr>
   <tr><td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td></tr>
-  <tr><td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td>
-  <tr><td align="center" valign="middle"><a href="http://research.google.com/university/"><img src="/sigcse2010/images/logos/sponsors/google.png" border="0" /></a></td>
- </tr> 
+  <tr><td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td></tr>
+  <tr><td align="center" valign="middle"><a href="http://research.google.com/university/"><img src="/sigcse2010/images/logos/sponsors/google.png" border="0" /></a></td></tr>
 </table> 
+
+<h1>Gold <br/>Supporter</h1>
+<table border="0" cellspacing="20px">
+<tr><td align="center" valign="middle"><a href="http://www.ibm.com"><img src="/sigcse2010/images/logos/sponsors/ibm.png" border="0" /></a></td></tr>
+</table>
 
 
 </td></tr></table>

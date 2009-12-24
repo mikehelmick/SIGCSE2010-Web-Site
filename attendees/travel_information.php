@@ -13,8 +13,6 @@
 	         <!-- right area -->
              
 <h1>SIGCSE 2010 Travel Information</h1>
-      
-<div class="errorExplanation">This information is still being updated, check back soon!</div>  
 
 <h3>Contents:</h3>
   <ul>
@@ -51,7 +49,7 @@ take them to the customized portal.</p>
 </div></div>
 
 <ul>
- <li>Convention Center Parking</li>
+ <li>The day rate for parking at the convention center is $15, please visit <a href="http://www.parkmilwaukee.com/">parkmilwaukee.com</a> for general parking information.</li>
 </ul>
 
 <?php

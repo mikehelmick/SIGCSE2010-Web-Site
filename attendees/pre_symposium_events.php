@@ -31,7 +31,8 @@
 <div class="SectionHeader"><div class="Full">
 <h2><a name="media_computation">Media Computation Pre-Symposium Workshop</a></h2>
 </div></div>
-<img src="/sigcse2010/images/clock.png" align="absmiddle" />Wednesday, March 10th, 2010, 8:00am to 5:30pm
+<img src="/sigcse2010/images/clock.png" align="absmiddle" />Wednesday, March 10th, 2010, 8:00am to 5:30pm<br/>
+<div class="errorExplanation">Workshop Now Full</div>
 
 <p>Media Computation (<a href="http://www.mediacomputation.org">http://www.mediacomputation.org</a>) is an approach to teaching introductory computing where the focus is on manipulating pictures, sounds, and video.  The approach motivates and engages students, by contextualizing computing in a relevant activity.  The one-day pre-conference workshop is appropriate for both novices to Media Computation and those using the approach now.  The day will offer an overview of the approach, touching on use with Python, Java, and Alice, for both introductory (APCS or CS1) and data structures classes.  The workshop is FREE, and will include a travel stipend and one night's lodging.  For more information, see <a href="http://home.cc.gatech.edu/gacomputes/53">http://home.cc.gatech.edu/gacomputes/53</a>.</p>
 
@@ -94,7 +95,7 @@ of Python will be essential for attending this pre-symposium. </p>
 <div class="SectionHeader"><div class="Full">
 <h2><a name="department_chairs">Department Chairs' Pre-Symposium Workshop</a></h2>
 </div></div>
-<p>The Pre-Symposium Workshop for Department Chairs' is an opportunity for all department chairs (experienced and inexperienced) to improve their understanding of their duties and their ability to perform them.  Participants should also include those interested in becoming department chairs.  Four experienced former department chairs will serve as resources for the group as the participants review and discuss the duties of the department chair and explore ways that chairs can do their jobs efficiently and effectively.  Some specific discussion topics will include leadership styles, time management, legal issues, academic program assessment, and faculty promotion and tenure.
+<p>The Pre-Symposium Workshop for Department Chairs is an opportunity for all department chairs (experienced and inexperienced) to improve their understanding of their duties and their ability to perform them.  Participants should also include those interested in becoming department chairs.  Four experienced former department chairs will serve as resources for the group as the participants review and discuss the duties of the department chair and explore ways that chairs can do their jobs efficiently and effectively.  Some specific discussion topics will include leadership styles, time management, legal issues, academic program assessment, and faculty promotion and tenure.
 </p>
 
 <p>Contact: Sandra DeLoatch <script>write_email("sjdeloatch", "nsu.edu");</script>, Joyce Little <script>write_email("jclittle", "towson.edu");</script>, Frank Friedman <script>write_email("friedman", "temple.edu");</script>, Dianne Martin <script>write_email("dmartin", "gwu.edu");</script></p>

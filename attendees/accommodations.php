@@ -57,7 +57,7 @@ Reservations by phone:<br/>
 1-414-271-7250 : Group Name: SIGCSE 2010</p>
 
 <ul>
-  <li>Free Parking</li>
+  <li>Free Parking ($24/day fee waived for attendees staying at the Hilton)</li>
   <li>Check-in at 4 pm</li>
   <li>Check-out at 11 am</li>
 </ul>

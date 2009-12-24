@@ -72,7 +72,7 @@
             invitation letters for visas.  However, they can issue a visa
             support letter.  For a visa support letter, please send a
             request to
-            <a href="mailto:Bucci@hq.acm.org">Laura Bucci (Bucci@hq.acm.org)</a>
+            <a href="mailto:supportletters@acm.org">supportletters@acm.org</a>
             with the following information:
 
             <ol>

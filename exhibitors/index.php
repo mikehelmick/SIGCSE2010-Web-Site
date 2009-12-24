@@ -88,16 +88,41 @@ and send us an email.</p>
 
 We thank all of our supporters and exhibitors for helping us make the conference a success:
 
-<h2>Platinum Supporters</h2>
+<h2>Platinum Plus Supporter</h2>
 
-<table border="0" cellspacing="20px">
+<table border="0" cellspacing="20px" width="100%">
  <tr>
-  <td align="center" valign="middle"><a href="http://www.microsoft.com/usfaculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" /></a></td>
-  <td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td>
-  <td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td>
-  <td align="center" valign="middle"><a href="http://research.google.com/university/"><img src="/sigcse2010/images/logos/sponsors/google.png" border="0" /></a></td>
+  <td align="center" valign="middle">
+    <a href="http://www.microsoft.com/usfaculty"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" border="0" align="absmiddle"/></a>
+  </td>
+ </tr>
+</table>
+    
+<h2>Platinum Plus Supporters</h2>    
+
+<table border="0" cellspacing="20px" width="100%">
+ <tr>
+  <td align="center" valign="middle">    
+   <a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" align="absmiddle" /></a></td>
+  <td align="center" valign="middle">  
+    <a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" align="absmiddle" /></a></td>
+  <td align="center" valign="middle">
+        <a href="http://research.google.com/university/"><img src="/sigcse2010/images/logos/sponsors/google.png" border="0" align="absmiddle" /></a> &nbsp;
+   </td>
  </tr> 
 </table> 
+
+<h2>Gold Supporter</h2>
+
+<table border="0" cellspacing="20px" width="100%">
+ <tr>
+  <td align="center" valign="middle">
+<a href="http://www.ibm.com"><img src="/sigcse2010/images/logos/sponsors/ibm.png" border="0" align="absmiddle" /></a>
+  </td>
+ </tr>
+</table>
+
+<p>View details about the SIGCSE 2010 <a href="/sigcse2010/attendees/supporter_sessions.php">supporter sessions</a>.</p>
 
 <!--
 <h2>Gold Supporters</h2>
@@ -117,6 +142,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
 
 <ul>
   <li><a href="http://www.microsoft.com/">Microsoft</a>: Kid's Camp Computers and t-shirts</li>
+  <li><a href="http://www.pearsonhighered.com/educator/">Pearson</a>: Conference Badge Lanyards
   <li><a href="http://www.turingscraft.com/">Turing's Craft</a>: Volunteer's T-shirts</li>
   <li><a href="http://www.acm.org/upe"/>Upsilon Pi Epsilon</a>: Volunteer Pizza Party</li>
 </ul>
@@ -139,6 +165,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
       <li>CRC Press-Taylor &amp; Francis Group</li>
       <li>Franklin, Beedle &amp; Associates</li>
       <li>Google</li>
+     <li>Hyper Grade</li>
      <li>IBM Corporation</li>
      <li>Industrial Logic, Inc.</li>
      <li>Intel Corporation</li>
@@ -150,7 +177,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
     <ul>
      <li>LEGO Education, North America</li>
      <li>Microsoft </li>
-     <li>Morgan Kaufmann/Elsevier</li>
+     <li>Morgan Kaufmann</li>
      <li>NSF</li>
      <li>Paradigm Publishing</li>
      <li>Pearson Higher Education</li>

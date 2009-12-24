@@ -164,7 +164,7 @@
 
 <p>
             <strong style="color: #FF0000;">
-            Due by Friday, December 7, 2009
+            Due by Monday, December 7, 2009
             </strong>
             </p>
 
@@ -265,13 +265,7 @@
 
                    <p style="font-size: 1.0em">
                    <strong>For papers:</strong>
-                   After submitting your document on the publisher's website,
-                   the publisher will send the contact author a confirmation
-                   message with a link to an ACM Copyright Form.
-                   Print the form, fill it out, and fax the form
-                   to the publisher.  Fax instructions for papers
-                   are available on the
-                   <a href="http://www.sheridanprinting.com/typedept/sigcse.htm#C">publisher's web page for papers</a>.
+                   After submitting your document on the <a href="http://www.sheridanprinting.com/typedept/sigcse.htm#C">publisher's website</a>, the publisher will send the contact author a confirmation message. After your paper has been processed, you will be emailed a link to an electronic ACM Copyright Form. Fill out and submit this form. <b>Note that no links to the copyright forms have gone out yet; the electronic copyright form is still being set up.</b>
                    </p>
 
                    <p style="font-size: 1.0em">
