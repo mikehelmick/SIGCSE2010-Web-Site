@@ -100,6 +100,19 @@ of Python will be essential for attending this pre-symposium. </p>
 
 <p>Contact: Sandra DeLoatch <script>write_email("sjdeloatch", "nsu.edu");</script>, Joyce Little <script>write_email("jclittle", "towson.edu");</script>, Frank Friedman <script>write_email("friedman", "temple.edu");</script>, Dianne Martin <script>write_email("dmartin", "gwu.edu");</script></p>
 
+<div class="SectionHeader"><div class="Full">
+<h2><a name="qualitative_research">Qualitative Research Methods Workshop</a></h2>
+</div></div>
+
+<p>Qualitative Research Methods Workshop. This is the second part of a
+two-part workshop designed to build skills in qualitative research
+methods such as grounded theory design, sequential explanatory
+design, and mixed methods design.  In part 1, participants focused on
+designing qualitative research studies in computer science education.
+Data collection was done following workshop part 1. In part 2,
+participants will focus on data analysis. This workshop is funded by
+NSF DUE CCLI #0923592 and is only open to those who attended part 1.</p>
+
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
   include("../parts/bottom.php");

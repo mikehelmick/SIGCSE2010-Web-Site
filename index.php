@@ -49,6 +49,9 @@
 -->      
  
 <h1>Welcome!</h1>
+
+<p>SIGCSE 2010 will take place in the Midwest Airlines Center in Milwaukee, WI. The two conference hotels, the Hyatt Regency and the Hilton City Center, are connected to the Center by heated skywalk. Unless otherwise noted, all room numbers refer to the Midwest Airlines Center.</p>
+
 <p>The SIGCSE Technical Symposium addresses problems common among educators working to develop, implement and/or 
 evaluate computing programs, curricula, and courses. The symposium provides a forum for sharing new ideas for syllabi, 
 laboratories, and other elements of teaching and pedagogy, at all levels of instruction. We invite those interested in computer 

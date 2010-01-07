@@ -19,10 +19,19 @@
 <div class="SectionHeader"><div class="Full">
 <h2><a name="google">Google</a></h2>
 </div></div>
-Thursday, March 11, 2010: 3:45 to 5:00pm<br/>
-Friday, March 12, 2010: 3:30 to 4:45pm
+
+<h3>Access for All: Google's Initiatives in Education</h3>
+Thursday, March 11, 2010: 3:45 to 5:00pm
 
 <div class="imgRight"><img src="/sigcse2010/images/logos/sponsors/google.png" /></div>
+
+<p>Presenter: Maggie Johnson, Director of Education and University Relations<br />
+<i>bio:</i> Maggie Johnson is Director of Education and University Relations for Google..  She manages all technical training and leadership development programs for Google engineers and operations staff, as well as Google's educational outreach efforts.  She also manages the university relations area, building strategic partnerships with faculty and labs globally.   Prior to Google, Maggie was a faculty member and Director of Undergraduate Studies in the Department of Computer Science at Stanford University.  
+</p>
+
+<h3>Session 2</h3>
+Friday, March 12, 2010: 3:30 to 4:45pm
+
 
 <p>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;</p>
 

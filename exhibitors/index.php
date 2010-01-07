@@ -145,6 +145,20 @@ We thank all of our supporters and exhibitors for helping us make the conference
   <li><a href="http://www.pearsonhighered.com/educator/">Pearson</a>: Conference Badge Lanyards
   <li><a href="http://www.turingscraft.com/">Turing's Craft</a>: Volunteer's T-shirts</li>
   <li><a href="http://www.acm.org/upe"/>Upsilon Pi Epsilon</a>: Volunteer Pizza Party</li>
+  <li>Conference Bag:</li>
+  <ul>
+  <li>University British Columbia Computer Science</li>
+  <li>Jones and Bartlett Publishers</li>
+  <li>Franklin, Beedle &amp; Associates Incorporated</li>
+  <li>AlgoViz</li>
+  <li>Georgia Tech School of Interactive Computing</li>
+  <li>Duke University Computer Science Department</li>
+  <li>Purdue University College of Technology</li>
+  <li>National Center for Women in Technology (NCWIT)</li>
+  <li>Broadening Participation in Computing (BPC)</li>
+  <li>STARS Alliance</li>
+  <li>University of Washington Access Computing</li>
+  </ul>
 </ul>
 
 <div class="SectionHeader"><div class="Full">
