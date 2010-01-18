@@ -2,9 +2,9 @@
  $title = "SIGCSE 2010 - Home";
  $menu = "home";
  include("parts/top.php");
-?>        <!-- <h2>Important Dates</h2> -->
+?>        
         
-        
+       
 <?php include("parts/main_left.php"); ?>
         
 
@@ -67,6 +67,49 @@ panel, poster and special sessions, as well as workshops, birds-of-a-feather, an
 celebrate and encourage these contacts that allow us to renew and make new connections as we discuss the challenges and 
 excitement of computer science education. </p>
 
+<div class="SectionHeader"><div class="Full">
+<h2>SIGCSE on Twitter</h2>
+</div></div>   
+
+<p>Leading up to, or during the conference, just tweet and include the #sigcse tag and it will show up on our Web site!</p>
+
+<table width="100%"><tr><td align="center">
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'search',
+  search: 'sigcse',
+  interval: 6000,
+  title: 'What\'s happening at SIGCSE 2010?',
+  subject: 'March 10-13, 2010, Milwaukee, WI, USA',
+  width: 250,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#8ec1da',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#444444',
+      links: '#1985b5'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: true,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: true,
+    behavior: 'default'
+  }
+}).render().start();
+</script>
+</td></tr></table>
+
+
 </td>
 <td nowrap="nowrap" width="20%" align="center" valign="top">
 
@@ -77,7 +120,6 @@ excitement of computer science education. </p>
 
 <h1>Platinum <br/>Supporters</h1>
 <table border="0" cellspacing="20px">
-  <tr><td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td></tr>
   <tr><td align="center" valign="middle"><a href="http://www.intel.com/education/"><img src="/sigcse2010/images/logos/sponsors/intel.png" border="0" /></a></td></tr>
   <tr><td align="center" valign="middle"><a href="http://research.google.com/university/"><img src="/sigcse2010/images/logos/sponsors/google.png" border="0" /></a></td></tr>
 </table> 
@@ -85,6 +127,7 @@ excitement of computer science education. </p>
 <h1>Gold <br/>Supporter</h1>
 <table border="0" cellspacing="20px">
 <tr><td align="center" valign="middle"><a href="http://www.ibm.com"><img src="/sigcse2010/images/logos/sponsors/ibm.png" border="0" /></a></td></tr>
+<tr><td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td></tr>
 </table>
 
 

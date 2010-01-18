@@ -1,6 +1,7 @@
 <h2>Important Dates</h2>
 <p>The early registration deadline is <strong>Sunday, January 31st, 2010</strong></p>
 
+
         <h2>News</h2>
         <ul>
           <li><a href="/sigcse2010/attendees/registration.php">Online Registration</a></li>

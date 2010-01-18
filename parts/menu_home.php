@@ -15,6 +15,8 @@
              Exhibitors/Supporters</a></li>   
         <li><a href="http://sigcse2010.blogspot.com/" <?php if ($menu == "blog") echo "id=\"current\""; ?>>
              Blog</a></li>
+        <li><a href="/sigcse2010/twitter/" <?php if ($menu == "twitter") echo "id=\"current\""; ?>>
+             Twitter</a></li>   
         <li><a href="/sigcse2010/press/" <?php if ($menu == "press") echo "id=\"current\""; ?>>
              Press</a></li>
         <li><a href="/sigcse2010/committee/" <?php if ($menu == "committee") echo "id=\"current\""; ?>>
