@@ -90,10 +90,18 @@ All Google Presenters (Maggie Johnson, Nina Kim, Hal Abelson, Mark Friedman, Mar
 <h2><a name="ibm">IBM</a></h2>
 </div></div>
 
-<h3>IBM Supporter Session</h3>
+<h3>Software for a Cause: A Discussion About Student Projects for Organizations in Need</h3>
 <p>Thursday, March 11, 2010: 1:45pm to 3:00PM</p>
 
 <div class="imgRight"><img src="/sigcse2010/images/logos/sponsors/ibm.png" /></div>
+ 
+<p>Li-Te Cheng<br />
+IBM Research </p>
+
+<p>Humanitarian Free and Open Source Software. Socially Relevant Computing. Socially Responsible Computing. Computing for Good. SIGCSE is a leading forum for these and other efforts, where educators engage students with projects that cross disciplines and borders, and provide a positive impact on society. 'Software for a Cause' is a joint university /IBM Research project currently under development that follows this direction - with an interest in exploring distributed community service student projects. </p>
+
+<p>This session will be an interactive discussion seeking your guidance, thoughts, and experiences in this domain. We will briefly present concepts from 'Software for a Cause' and related efforts in IBM for your feedback, leading to an open dialog around broader themes. What makes a suitable distributed student project "for a cause"?  How to connect student teams with organizations in need? What are challenges faced by students and instructors around tools, practices, and collaboration? How can we help your own efforts in the classroom? Attend this session and join in to help the cause.</p>
+
 
 <p>&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;</p>
 
@@ -123,11 +131,28 @@ Friday, March 12, 2010  1:30 PM to 2:45 PM
 <h2><a name="microsoft">Microsoft</a></h2>
 </div></div>
 
-<h3>Microsoft Session 1</h3>
-<p>Thursday, March 11, 2010  10:45 AM to 12:00 PM  [topic TBD]
-</p>
+<h3>Teaching Compliers</h3>
+<p>Thursday, March 11, 2010  10:45 AM to 12:00 PM</p>
+
 
 <div class="imgRight"><img src="/sigcse2010/images/logos/sponsors/microsoft.png" /></div>
+
+<p>Alfred V. Aho<br />
+Department of Computer Science Columbia University</p>
+
+<p>The compilers design course offers a wonderful opportunity for students to appreciate the interplay of theory and practice, to exercise their creativity, and to learn robust software development practices. I will describe how the compilers course
+at Columbia has evolved from a theoretical course to a design studio in which students work in small teams to create and implement innovative little languages of their own design. The talk will be illustrated with a number of the novel languages created in this course and one of the languages is showcased in the exhibit area.</p>
+
+
+<h3>Getting Started with F#</h3>
+<p>Friday, March 12, 2010  10:30am to 11:45am</p>
+
+<p>Timothy Ng<br />
+Microsoft F#</p>
+
+<p>Timothy Ng is the engineering lead for the F# team within the Visual Studio Languages group. He joined Microsoft in 2003, and has been working on the Languages team since 2005. More recently he is the engineering lead helping to release the first version of F# integrated into Visual Studio 2010.</p>
+
+<p>F# is a succinct and expressive typed functional programming language for the .NET platform, and Microsoft will be supporting F# as a first class language in Visual Studio 2010. In this tutorial you'll get a taste or F# programming from the basics through to some parallel and asynchronous programming with F#. You'll learn how to get started with the functional, imperative and object-oriented programming in F#. You'll also get a taste for some parallel and asynchronous programming.</p>
 
 <h3>Evolution of the Windows Kernel Architecture - Win7 and Beyond</h3>
 <p>Friday, March 12, 2010  1:30 PM to 2:45 PM<br />
@@ -135,8 +160,25 @@ Dave Probert, Kernel Architect - Windows Core Operating Systems Division, Micros
 </p>
 <p>The core architecture of the Windows kernel differs significantly from UNIX, though many of the functions are necessarily similar.  This talk will cover the Windows kernel architecture, focusing on areas of difference from UNIX.  Then some specific recent kernel changes will be described: integrity levels, removal of the hottest kernel locks, and the move towards user-mode scheduling to support the ConcRT task-based concurrency run-time.  Finally, the talk will look at some of the OS challenges ahead due to the silicon power-wall and the resulting heterogeneous multi-core/many-core systems that will dominate the PC landscape within a few years.</p>
 
-<h3>Microsoft Session 3</h3>
-<p>Saturday, March 13, 2010  10:40 AM - 11:55 AM [topic TBD]</p>
+<h3>The Multi-core Landscape: New Technologies and Tools from Microsoft</h3>
+<p>Saturday, March 13, 2010  10:40 AM - 11:55 AM</p>
+
+<p>Joe Hummel, PhD<br />
+Lake Forest College</p>
+
+<p>As performance improvements rely increasingly on parallel programming, both the research and professional communities are racing to catch-up.  This talk will survey what various teams at Microsoft are bringing to the table --- new technologies shipping as part of .NET 4.0 and Visual Studio 2010, along with emerging ideas still incubating at MSR.  In particular, we'll discuss the mental shift from threads to tasks, the Task Parallel Library for .NET, the Parallel Pattern Library for Visual C++, Parallel LINQ, Coordination Data Structures, and tool support in Visual Studio 2010.  If time permits, we'll also discuss STM, CHESS, and other projects.</p>
+
+<div class="SectionHeader"><div class="Full">
+<h2><a name="sun">SUN</a></h2>
+</div></div>
+
+<h3>Sun supporter session [topic TBD]</h3>
+<p>Friday, March 12 10:30am - 11:45am</p>
+
+<div class="imgRight"><img src="/sigcse2010/images/logos/sponsors/sun.png" /></div>
+
+<p>&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;<br />&nbsp;</p>
+
 
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );

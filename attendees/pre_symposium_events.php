@@ -44,6 +44,7 @@
 <h2><a name="computing_with_personal_robots">Introducing Computing with Personal Robots -- SIGCSE 2010 Edition</a></h2>
 </div></div>
 <img src="/sigcse2010/images/clock.png" align="absmiddle" />Wednesday, March 10th, 2010, 8:00am to 5:00pm
+<div class="errorExplanation">Workshop Now Full</div>
 
 <p>The Institute for Personal Robots in Education (IPRE) is pleased to
 offer a pre-symposium hands-on workshop for instructors interested in

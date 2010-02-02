@@ -6,7 +6,7 @@ function write_email( first, second ) {
 
 function remove_frames()
 {
-  var sMyDom = 'sigcse.org';
+  var sMyDom = 'www.sigcse.org';
   if (document.domain != sMyDom && document.domain != 'localhost') {
     top.location.replace(document.URL.replace(document.domain, sMyDom));
   }

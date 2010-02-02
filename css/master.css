@@ -70,6 +70,10 @@ table.layout td.right div.Right {
   float: none;
 }
 
+.bookImg {
+	margin: 2px 2px 2px 2px;
+}
+
 .col {
 	padding: 0 20px;
 	text-align: left;

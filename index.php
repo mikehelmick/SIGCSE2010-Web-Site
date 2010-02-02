@@ -15,7 +15,7 @@
 
 	         <!-- right area -->
              
-<div class="GoodMessage"><a href="/sigcse2010/attendees/registration.php">SIGCSE 2010 Symposium registration is now open!</a></div>
+             <div class="errorExplanation">The early registration deadline is <strong>Sunday, January 31st, 2010</strong></div>  
 
 <!--
 <p><b>I'm interested in...</b><br />             

@@ -199,7 +199,7 @@ The University of Arizona <br/>
  <tr class="header"><td colspan="2"><b>International Liaison</b></td></tr>
  <tr><td align="left" valign="top" nowrap="nowrap"> 
 <p>Lynda Thomas <br/>
-University of Wales <br/>
+Aberystwyth University <br/>
 <script>write_email( "ltt", "aber.ac.uk" );</script></p>
  </td><td></td></tr>
  
