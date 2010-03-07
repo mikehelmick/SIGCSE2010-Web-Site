@@ -22,7 +22,7 @@
                 <li>Join the <a href="http://www.facebook.com/group.php?gid=344194633175">SIGCSE 2010 Facebook group</a>.</li>
                </ul>
              </div>
-             
+
   <div class="GoodMessage">
 SIGCSE 2010 on-site registration will be open at the following times:<br/>
 <ul>

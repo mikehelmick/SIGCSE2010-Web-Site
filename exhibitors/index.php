@@ -114,7 +114,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
 
 <table border="0" cellspacing="20px" width="100%">
  <tr>
-  <td align="center" valign="middle">
+  <td align="center" valign="middle">    
 <a href="http://www.ibm.com"><img src="/sigcse2010/images/logos/sponsors/ibm.png" border="0" align="absmiddle" /></a>
   </td>
  </tr>
