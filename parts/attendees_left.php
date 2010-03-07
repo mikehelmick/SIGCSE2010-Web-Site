@@ -14,7 +14,6 @@
  <li><a href="/sigcse2010/attendees/pre_symposium_events.php"><img src="/sigcse2010/images/calendar.png" align="absmiddle"/> Pre-Symposium Events</a></li>
  <li><a href="/sigcse2010/attendees/supporter_sessions.php"><img src="/sigcse2010/images/building.png" align="absmiddle"/> Supporter Sessions</a></li>
  <li><a href="/sigcse2010/attendees/special_projects.php"><img src="/sigcse2010/images/bricks.png" align="absmiddle"/> SIGCSE Special Projects</a></li>
- <li><a href="/sigcse2010/attendees/bonus_activities.php"><img src="/sigcse2010/images/controller_add.png" align="absmiddle"/> Bonus Activities</a></li>
  <li><a href="/sigcse2010/attendees/video_program.php"><img src="/sigcse2010/images/television.png" align="absmiddle"/> Video Program</a></li>
  <li><a href="/sigcse2010/attendees/k12_highlights.php"><img src="/sigcse2010/images/house.png" align="absmiddle"/> Highlights for K-12 Teachers</a></li>
  <li><a href="/sigcse2010/attendees/travel_information.php"><img src="/sigcse2010/images/tag_orange.png" align="absmiddle"/> Travel Information</a></li>

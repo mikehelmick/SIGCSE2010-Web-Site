@@ -60,6 +60,22 @@ With parallel programming models evolving, and a variety of approaches being tri
 
 <p><b>Bio: </b> Michael Wrinn manages Intel's Innovative Software Education team, which collaborates with universities to bring parallel computing to the mainstream of undergraduate education. He also works with the ACM Education Council to bring industrial perspective to curriculum evolution. Prior Intel roles include managing Intel's software engineering lab in Shanghai, and directing research on human interface technology. He was Intel's representative for the original OpenMP specification, and remains active in the parallel computing community. Before joining Intel, Michael worked at Accelrys, implementing commercial and research simulation codes on a wide variety of parallel/HPC systems. He holds a B.Sc. and Ph.D. (in quantum mechanics) from McGill University.</p>
 
+
+<div class="SectionHeader"><div class="Full">
+<h2>Peter J. Denning</h2>
+</div></div>
+
+<div align="center"><h3>What is Computation?</h3> <i>First timer's lunch</i></div>
+
+<p>This innocent looking question hides in the background when we discuss
+who we are and what we do.   Just look at all the difficulty we are having
+defining "computational thinking".  This is a question that has never been completely
+settled, and probably will never be.  The value comes from grappling with it,
+not from settling it.  I will review the changing answers our field has offered
+to this question since the 1930s.  I will discuss three reasons why our current
+answer is insufficient.  I will argue that a definition basing computation on
+representations rather than algorithms may relieve our muddle around this.</p>
+
 <?php
   $updated = filemtime( $_SERVER["SCRIPT_FILENAME"] );
   include("../parts/bottom.php");

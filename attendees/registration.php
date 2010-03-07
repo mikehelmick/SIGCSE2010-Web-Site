@@ -12,6 +12,8 @@
 
 	         <!-- right area -->
              
+                          <div class="errorExplanation">Pre-registration is closed, but you can still register on site.  See you at SIGCSE!</div>  
+             
 <h1>SIGCSE 2010 Registration Gateway</h1>
       
 <div class="SectionHeader"><div class="Full">
@@ -40,8 +42,18 @@
 <div class="SectionHeader"><div class="Full">
 <h2>On-Site Registration</h2>
 </div></div><br/>
+  
 
-<div class="errorExplanation">On-site registration times will be available before the symposium begins.</div>    
+<p>On-site registration will be open at the following times:
+
+<ul>
+ <li>Wednesday, March 10, 3:00 PM - 9:30 PM</li>
+ <li>Thursday, March 11, 7:30 AM - 4:00 PM</li>
+ <li>Friday, March 12, 7:30 AM - 5:00 PM</li>
+ <li>Saturday, March 13, 8:00 AM - 2:30 PM</li>
+</ul>
+</p>
+
 
 <!--
 As of February 26th, on-site registration is the only registration option. We will be offering on-site registration at the following times:

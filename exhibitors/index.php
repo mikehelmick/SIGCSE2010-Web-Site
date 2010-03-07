@@ -98,7 +98,7 @@ We thank all of our supporters and exhibitors for helping us make the conference
  </tr>
 </table>
     
-<h2>Platinum Plus Supporters</h2>    
+<h2>Platinum Supporters</h2>    
 
 <table border="0" cellspacing="20px" width="100%">
  <tr>
@@ -114,9 +114,6 @@ We thank all of our supporters and exhibitors for helping us make the conference
 
 <table border="0" cellspacing="20px" width="100%">
  <tr>
-  <td align="center" valign="middle">    
-   <a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" align="absmiddle" /></a></td>
-
   <td align="center" valign="middle">
 <a href="http://www.ibm.com"><img src="/sigcse2010/images/logos/sponsors/ibm.png" border="0" align="absmiddle" /></a>
   </td>
@@ -148,14 +145,14 @@ We thank all of our supporters and exhibitors for helping us make the conference
   <li><a href="http://www.acm.org/upe"/>Upsilon Pi Epsilon</a>: Volunteer Pizza Party</li>
   <li>Conference Bag:</li>
   <ul>
-  <li>University British Columbia Computer Science</li>
+  <li>University of British Columbia Computer Science</li>
   <li>Jones and Bartlett Publishers</li>
   <li>Franklin, Beedle &amp; Associates Incorporated</li>
   <li>AlgoViz</li>
   <li>Georgia Tech School of Interactive Computing</li>
   <li>Duke University Computer Science Department</li>
   <li>Purdue University College of Technology</li>
-  <li>National Center for Women in Technology (NCWIT)</li>
+  <li>National Center for Women &amp; Information Technology (NCWIT)</li>
   <li>Broadening Participation in Computing (BPC)</li>
   <li>STARS Alliance</li>
   <li>University of Washington Access Computing</li>
@@ -166,6 +163,14 @@ We thank all of our supporters and exhibitors for helping us make the conference
 <h2>Exhibitors</h2>
 </div></div>
 
+<p>Exhibit hall hours:
+<ul>
+ <li>Thursday, March 11, 10:00 AM - 6:00 PM</li>
+ <li>Friday, March 12, 10:00 AM - 6:00 PM</li>
+ <li>Saturday, March 13, 9:30 AM - 12:00 PM (noon)</li>
+</ul>
+</p>
+
 <table border="0" cellpadding="5" cellspacing="5">
  <tr>
    <td align="left" valign="top">
@@ -174,22 +179,24 @@ We thank all of our supporters and exhibitors for helping us make the conference
       <li>ACM SIGAda</li>
       <li>AK Peters</li>
       <li>Auburn University</li>
+      <li>BlackBerry</li>
       <li>Broadening Participation in Computing (BPC)</li>    
       <li>Council of International Exchange of Scholars</li>
       <li>Course Technology Cengage Learning</li>
       <li>CRC Press-Taylor &amp; Francis Group</li>
+      <li>Custom Computer Services</li>
       <li>Franklin, Beedle &amp; Associates</li>
       <li>Google</li>
      <li>Hyper Grade</li>
      <li>IBM Corporation</li>
      <li>Industrial Logic, Inc.</li>
      <li>Intel Corporation</li>
-     <li>InterSystems Corporation</li> 
-     <li>Jones and Bartlett Publishers</li> 
     </ul>
    </td>
    <td align="left" valign="top">
     <ul>
+     <li>InterSystems Corporation</li>  
+     <li>Jones and Bartlett Publishers</li>
      <li>LEGO Education, North America</li>
      <li>Microsoft </li>
      <li>Morgan Kaufmann</li>
@@ -199,7 +206,6 @@ We thank all of our supporters and exhibitors for helping us make the conference
      <li>Project AlgoViz, Department of Computer Science, Virginia Tech</li>
      <li>RidgeSoft, LLC</li>
      <li>Springer</li>
-     <li>Sun Microsystems</li>
      <li>The College Board</li>
      <li>The MIT Press</li>
      <li>Turing's Craft</li>

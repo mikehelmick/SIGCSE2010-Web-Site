@@ -15,7 +15,23 @@
 
 	         <!-- right area -->
              
-<div class="GoodMessage"><a href="/sigcse2010/attendees/registration.php">SIGCSE 2010 Symposium registration is now open!</a></div>
+             <div class="GoodMessage">Participate in SIGCSE 2010's online presence:
+               <ul>
+                <li>Contribute to the <a href="http://www.flickr.com/groups/1325927@N25/pool/">SIGCSE 2010 Pool on Flickr</a>.</li>
+                <li>On Twitter, just include #sigcse in your tweet, and <a href="/sigcse2010/twitter/">view the results</a>.</li>
+                <li>Join the <a href="http://www.facebook.com/group.php?gid=344194633175">SIGCSE 2010 Facebook group</a>.</li>
+               </ul>
+             </div>
+             
+  <div class="GoodMessage">
+SIGCSE 2010 on-site registration will be open at the following times:<br/>
+<ul>
+ <li>Wednesday, March 10, 3:00 PM - 9:30 PM</li>
+ <li>Thursday, March 11, 7:30 AM - 4:00 PM</li>
+ <li>Friday, March 12, 7:30 AM - 5:00 PM</li>
+ <li>Saturday, March 13, 8:00 AM - 2:30 PM</li>
+</ul>
+  </div>  
 
 <!--
 <p><b>I'm interested in...</b><br />             
@@ -66,6 +82,20 @@ and interaction.</p>
 panel, poster and special sessions, as well as workshops, birds-of-a-feather, and informal settings at breaks and meals. We 
 celebrate and encourage these contacts that allow us to renew and make new connections as we discuss the challenges and 
 excitement of computer science education. </p>
+
+<div class="SectionHeader"><div class="Full">
+<h2>SIGCSE sponsored and in-cooperation conferences</h2>
+</div></div> 
+
+<ul>
+ <li>ICER 2010 - <a href="http://www.sigcse.org/icer/2010">http://www.sigcse.org/icer/2010</a></li>
+ <li>ITICSE 2010 - <a href="http://iticse2010.bilkent.edu.tr/">http://iticse2010.bilkent.edu.tr/</a></li>
+ <li>SIGCSE 2011 - <a href="http://www.sigcse.org/sigcse2011/">http://www.sigcse.org/sigcse2011/</a></li>
+ <li>WCCCE 2010 - <a href="http://wccce.ok.ubc.ca/">http://wccce.ok.ubc.ca/</a></li>
+ <li>CCSC 2010 Regional Conferences <a href="http://www.ccsc.org/events/conferences.htm">http://www.ccsc.org/events/conferences.htm</a></li>
+</ul>
+
+<p>View an <a href="links.php">expanded list of related conferences.</a></p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>SIGCSE on Twitter</h2>
@@ -127,7 +157,6 @@ new TWTR.Widget({
 <h1>Gold <br/>Supporter</h1>
 <table border="0" cellspacing="20px">
 <tr><td align="center" valign="middle"><a href="http://www.ibm.com"><img src="/sigcse2010/images/logos/sponsors/ibm.png" border="0" /></a></td></tr>
-<tr><td align="center" valign="middle"><a href="http://www.sun.com/"><img src="/sigcse2010/images/logos/sponsors/sun.png" border="0" /></a></td></tr>
 </table>
 
 

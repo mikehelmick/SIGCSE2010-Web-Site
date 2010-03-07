@@ -44,6 +44,7 @@
 <h2><a name="computing_with_personal_robots">Introducing Computing with Personal Robots -- SIGCSE 2010 Edition</a></h2>
 </div></div>
 <img src="/sigcse2010/images/clock.png" align="absmiddle" />Wednesday, March 10th, 2010, 8:00am to 5:00pm
+<div class="errorExplanation">Workshop Now Full</div>
 
 <p>The Institute for Personal Robots in Education (IPRE) is pleased to
 offer a pre-symposium hands-on workshop for instructors interested in
@@ -88,13 +89,15 @@ of Python will be essential for attending this pre-symposium. </p>
 
 <p>New to teaching? Seeking advice and mentorship? Join us at the New Educators Roundtable (NER), a half-day workshop designed to mentor college and university faculty who are new to teaching. We welcome participants from across the entire teaching spectrum: tenure-track faculty at institutions where teaching is central, teaching-track faculty and lecturers, and graduate students who currently teach or are looking forward to an academic career. Come with your questions and concerns, learn from the experiences and best practices of sage elders, and build an international support group for your career. The roundtable will be held noon-5pm on Wednesday, March 10, 2010, immediately before the SIGCSE Symposium. Lunch will be provided.</p>
 
-<p>Download: <img src="/sigcse2010/images/page_white_acrobat.png" /><a href="/sigcse2010/attendees/downloads/ner_writeup.pdf">Additional details for the New Educators Roundtable</a>.</p>
+<p><a href="http://dave-reed.com/NER/" target="_blank">Additional details for the New Educators Roundtable</a>.</p>
 
 <p>Contact: Julie Zelenski <script>write_email("zelenski", "cs.stanford.edu");</script>, Dave Reed <script>write_email("davereed","creighton.edu");</script></p>
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="department_chairs">Department Chairs' Pre-Symposium Workshop</a></h2>
 </div></div>
+<img src="/sigcse2010/images/clock.png" align="absmiddle" />Wednesday, March 10, 2010, 8:00pm to 5:00pm
+
 <p>The Pre-Symposium Workshop for Department Chairs is an opportunity for all department chairs (experienced and inexperienced) to improve their understanding of their duties and their ability to perform them.  Participants should also include those interested in becoming department chairs.  Four experienced former department chairs will serve as resources for the group as the participants review and discuss the duties of the department chair and explore ways that chairs can do their jobs efficiently and effectively.  Some specific discussion topics will include leadership styles, time management, legal issues, academic program assessment, and faculty promotion and tenure.
 </p>
 

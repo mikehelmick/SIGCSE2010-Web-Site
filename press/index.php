@@ -67,7 +67,7 @@
 <h2>Registration Instructions</h2>
 </div></div>
 
-<div id="GoodMessage">Media registration information will be arriving soon.</div>
+<div id="GoodMessage">If you are interested in media registration, please contact Gary Lewandowski and Steve Wolfman at <script>write_email( "sigcse10-scs", "cs.xu.edu" );</script>.</div>
 
 
 <div class="SectionHeader"><div class="Full">
@@ -87,7 +87,7 @@ Media badge holders are entitled to admission to all activities except the Thurs
               <li> Featured Speakers:
 
                    <ul>
-                     <li> tbd </li>
+                     <li>See <a href="/sigcse2010/attendees/keynotes.php">Keynote Speakers</a> page</li>
                    </ul>
 
 

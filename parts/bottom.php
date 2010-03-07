@@ -13,7 +13,7 @@
           </tr></table>
           
           
-          Copyright &copy; 2009, SIGCSE <br/>        
+          Copyright &copy; 2009 - 2010, SIGCSE <br/>        
           This page was last updated: <?php date_default_timezone_set('America/Los_Angeles');
 		                                    print(date("F jS, Y @ h:i T", $updated)); ?><br/>       
           <?php if ( $mainPage == true ) {

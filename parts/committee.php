@@ -101,7 +101,7 @@ The University of Arizona <br/>
  
 <p><b>International Liaison</b><br/>
 Lynda Thomas <br/>
-University of Wales <br/>
+Aberystwyth University<br/>
 <script>write_email( "ltt", "aber.ac.uk" );</script></p>
  
 <p><b>K-12 Liaison</b><br/>

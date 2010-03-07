@@ -23,10 +23,13 @@
             and how to sign up are provided below.
             </p>
             
+            <p>Student Volunteer registration is now closed.  You may still attend the conference; register to attend on the SIGCSE 2010 registration page).  Any questions should be directed to Briana Morrison at <script>write_email("sigcse10-svs","cs.xu.edu")</script></p>
+            <!--
             <p>
             To volunteer you should register to attend the SIGCSE symposium (the registration options are detailed on our <a href="/sigcse2010//attendees/registration.php">SIGCSE 2010 registration page</a>)
             AND you should <a href="http://www.surveymonkey.com/s.aspx?sm=D_2b6QKGXqUwSZFhm_2fBMd_2fCg_3d_3d">sign up to be a student volunteer</a>.
             </p>
+            -->
 
 <!--
             <p>
@@ -215,6 +218,9 @@
             -->
 
 
+<p>Student Volunteer registration is now closed.  You may still attend the conference; register to attend on the SIGCSE 2010 registration page).  Any questions should be directed to Briana Morrison at <script>write_email("sigcse10-svs","cs.xu.edu")</script></p>
+
+<!--
             <p>
             You should register to attend the SIGCSE symposium
             (the registration options are detailed on our
@@ -234,6 +240,8 @@
             We will send you a reminder when conference registration opens
             so that you can complete the registration process. 
             </p>
+            
+            -->
 
 <div class="SectionHeader"><div class="Full">
 <h2><a name="questions">Questions</a></h2>

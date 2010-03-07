@@ -28,7 +28,6 @@
  <li><a href="/sigcse2010/attendees/pre_symposium_events.php"><img src="/sigcse2010/images/calendar.png" align="absmiddle"/> Pre-Symposium Events</a></li>
  <li><a href="/sigcse2010/attendees/supporter_sessions.php"><img src="/sigcse2010/images/building.png" align="absmiddle"/> Supporter Sessions</a></li>
  <li><a href="/sigcse2010/attendees/special_projects.php"><img src="/sigcse2010/images/bricks.png" align="absmiddle"/> SIGCSE Special Projects</a></li>
- <li><a href="/sigcse2010/attendees/bonus_activities.php"><img src="/sigcse2010/images/controller_add.png" align="absmiddle"/> Bonus Activities</a></li>
  <li><a href="/sigcse2010/attendees/video_program.php"><img src="/sigcse2010/images/television.png" align="absmiddle"/> Video Program</a></li>
  <li><a href="/sigcse2010/attendees/k12_highlights.php"><img src="/sigcse2010/images/house.png" align="absmiddle"/> Highlights for K-12 Teachers</a></li>
  <li><a href="/sigcse2010/attendees/travel_information.php"><img src="/sigcse2010/images/tag_orange.png" align="absmiddle"/> Travel Information</a></li>
@@ -42,6 +41,10 @@
 </td>
 
 <td valign="top" align="center" style="padding: 0 25px 0 25px;" width="60%">
+
+<div style='width: 500px; height: 440px; background-image: url( http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/winter1_500x440_bg.jpg ); background-repeat: no-repeat; background-color: #7CADEE;' ><div id='NetweatherContainer' style='height: 420px;' ><script src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&tStyle=normal&logo=1&zipcode=53201&lang=eng&size=13&theme=winter1&metric=0&target=_self'></script></div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 12px; line-height: 20px; color: #0000FF;' ><a style='color: #0000FF' href='http://www.accuweather.com/us/WI/MILWAUKEE/53201/city-weather-forecast.asp?partner=accuweather&traveler=0' >Weather Forecast</a> | <a style='color: #0000FF' href='http://www.accuweather.com/maps-satellite.asp' >Weather Maps</a> | <a style='color: #0000FF' href='http://www.accuweather.com/index-radar.asp?partner=accuweather&traveler=0&zipcode=53201' >Weather Radar</a> | <a style='color: #0000FF' href='http://hurricane.accuweather.com/hurricane/index.asp' >Hurricane Center</a></div></div>
+
+<!--
  <div class="GoodMessage">
       <h2><a name="kind">Important Information for<br/>Symposium Attendees</a></h2>
       
@@ -49,6 +52,7 @@
       
       <p>Pre-symposium event timing varies by event.  If the times are not listed on the <a href="/sigcse2010/attendees/pre_symposium_events.php">pre-symposium event page</a>, please contact event organizers for details.</p>
   </div>
+  -->
 </td>
 </tr>
 </table>
