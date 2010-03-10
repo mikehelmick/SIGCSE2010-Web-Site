@@ -11,6 +11,8 @@
 <?php include("../parts/middle.php"); ?>        
 
 	         <!-- right area -->
+             
+<div class="GoodMessage"><a href="wifi.php">Find out how to get free Wi-fi access during your stay at one of the official conference hotels</a></div>
 
 <h1>Information for Attendees</h1>
 
@@ -42,7 +44,7 @@
 
 <td valign="top" align="center" style="padding: 0 25px 0 25px;" width="60%">
 
-<div style='width: 500px; height: 440px; background-image: url( http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/winter1_500x440_bg.jpg ); background-repeat: no-repeat; background-color: #7CADEE;' ><div id='NetweatherContainer' style='height: 420px;' ><script src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&tStyle=normal&logo=1&zipcode=53201&lang=eng&size=13&theme=winter1&metric=0&target=_self'></script></div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 12px; line-height: 20px; color: #0000FF;' ><a style='color: #0000FF' href='http://www.accuweather.com/us/WI/MILWAUKEE/53201/city-weather-forecast.asp?partner=accuweather&traveler=0' >Weather Forecast</a> | <a style='color: #0000FF' href='http://www.accuweather.com/maps-satellite.asp' >Weather Maps</a> | <a style='color: #0000FF' href='http://www.accuweather.com/index-radar.asp?partner=accuweather&traveler=0&zipcode=53201' >Weather Radar</a> | <a style='color: #0000FF' href='http://hurricane.accuweather.com/hurricane/index.asp' >Hurricane Center</a></div></div>
+<div style='width: 500px; height: 440px; background-image: url( http://vortex.accuweather.com/adcbin/netweather_v2/backgrounds/winter1_500x440_bg.jpg ); background-repeat: no-repeat; background-color: #7CADEE;' ><div id='NetweatherContainer' style='height: 420px;' ><script defer="defer" src='http://netweather.accuweather.com/adcbin/netweather_v2/netweatherV2ex.asp?partner=netweather&tStyle=normal&logo=1&zipcode=53201&lang=eng&size=13&theme=winter1&metric=0&target=_self'></script></div><div style='text-align: center; font-family: arial, helvetica, verdana, sans-serif; font-size: 12px; line-height: 20px; color: #0000FF;' ><a style='color: #0000FF' href='http://www.accuweather.com/us/WI/MILWAUKEE/53201/city-weather-forecast.asp?partner=accuweather&traveler=0' >Weather Forecast</a> | <a style='color: #0000FF' href='http://www.accuweather.com/maps-satellite.asp' >Weather Maps</a> | <a style='color: #0000FF' href='http://www.accuweather.com/index-radar.asp?partner=accuweather&traveler=0&zipcode=53201' >Weather Radar</a> | <a style='color: #0000FF' href='http://hurricane.accuweather.com/hurricane/index.asp' >Hurricane Center</a></div></div>
 
 <!--
  <div class="GoodMessage">

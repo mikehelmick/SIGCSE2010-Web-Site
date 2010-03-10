@@ -22,16 +22,13 @@
                 <li>Join the <a href="http://www.facebook.com/group.php?gid=344194633175">SIGCSE 2010 Facebook group</a>.</li>
                </ul>
              </div>
-
-  <div class="GoodMessage">
-SIGCSE 2010 on-site registration will be open at the following times:<br/>
-<ul>
- <li>Wednesday, March 10, 3:00 PM - 9:30 PM</li>
- <li>Thursday, March 11, 7:30 AM - 4:00 PM</li>
- <li>Friday, March 12, 7:30 AM - 5:00 PM</li>
- <li>Saturday, March 13, 8:00 AM - 2:30 PM</li>
-</ul>
-  </div>  
+             
+             <div class="GoodMessage">SIGCSE Attendees, please fill our our surveys online:
+             <ul>
+               <li><a href="http://www.surveymonkey.com/s/SIGCSE2010Workshops">Survey for workshop attendees</a></li>
+               <li><a href="http://www.surveymonkey.com/s/SIGCSE2010">Overall symposium survey</a></li>
+             </ul>
+             </div> 
 
 <!--
 <p><b>I'm interested in...</b><br />             
