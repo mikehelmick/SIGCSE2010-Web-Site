@@ -17,7 +17,7 @@
  <li><a href="/sigcse2010/attendees/video_program.php"><img src="/sigcse2010/images/television.png" align="absmiddle"/> Video Program</a></li>
  <li><a href="/sigcse2010/attendees/k12_highlights.php"><img src="/sigcse2010/images/house.png" align="absmiddle"/> Highlights for K-12 Teachers</a></li>
  <li><a href="/sigcse2010/attendees/travel_information.php"><img src="/sigcse2010/images/tag_orange.png" align="absmiddle"/> Travel Information</a></li>
- <li><a href="/sigcse2010/attendees/accommodations.php"><img src="/sigcse2010/images/clock.png" align="absmiddle"/> Accomodations</a></li>
+ <li><a href="/sigcse2010/attendees/accommodations.php"><img src="/sigcse2010/images/clock.png" align="absmiddle"/> Accommodations</a></li>
  <li><a href="/sigcse2010/attendees/floor_plans.php"><img src="/sigcse2010/images/map.png" align="absmiddle"/> Floor Plans</a></li>
  <li><a href="/sigcse2010/attendees/kids_camp.php"><img src="/sigcse2010/images/group.png" align="absmiddle"/> Kids Camp</a></li>
  <li><a href="/sigcse2010/attendees/visas.php"><img src="/sigcse2010/images/folder_database.png" align="absmiddle"/> Visa Information</a></li>

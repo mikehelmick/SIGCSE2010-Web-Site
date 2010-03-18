@@ -12,7 +12,14 @@ and send us an email.</p>
 
 <?php include("../parts/middle.php"); ?>  
 
-<div class="GoodMessage">SIGCSE 2010 <a href="/sigcse2010/downloads/SIG_EP10_WebRes.pdf" target="_blank"> Invitation to Exhibit / Conference Support Opportunities</a></div>
+<div class="GoodMessage">
+<ul>
+ <li><a href="/sigcse2010/exhibitors/downloads/SIG_EG2010.pdf">SIGCSE 2010 Exhibit Guide</a></li>
+ <li><a href="/sigcse2010/exhibitors/downloads/SIGCSE_EP11.pdf">SIGCSE 2011 Invitation to Exhibit</a></li>
+</ul>
+</div>
+
+<p>SIGCSE 2010 <a href="/sigcse2010/downloads/SIG_EP10_WebRes.pdf" target="_blank"> Invitation to Exhibit / Conference Support Opportunities</a></p>
 
 <div class="SectionHeader"><div class="Full">
 <h2>Exhibitors and Supporters</h2>

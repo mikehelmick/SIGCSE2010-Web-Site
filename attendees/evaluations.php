@@ -20,8 +20,8 @@
 <p>To complete an evaluation on-line, please select one of the following links. Note that neither survey requires a password:
 
 <ul>
- <li>SIGCSE 2010 Symposium Evaluation</li>
- <li>Wednesday Evening, Friday Evening, and Saturday Workshop Evaluations (to be completed once per workshop attended)</li>
+ <li><a href="http://www.surveymonkey.com/s/SIGCSE2010">SIGCSE 2010 Symposium Evaluation</a></li>
+ <li><a href="http://www.surveymonkey.com/s/SIGCSE2010Workshops">Wednesday Evening, Friday Evening, and Saturday Workshop Evaluations (to be completed once per workshop attended)</a></li>
 </ul>
 </p>
 

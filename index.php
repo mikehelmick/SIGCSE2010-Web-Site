@@ -18,17 +18,18 @@
              <div class="GoodMessage">Participate in SIGCSE 2010's online presence:
                <ul>
                 <li>Contribute to the <a href="http://www.flickr.com/groups/1325927@N25/pool/">SIGCSE 2010 Pool on Flickr</a>.</li>
+                <ul>
+                  <li>You will see more pictures if you join Flickr and join the group!</li>
+                </ul>
                 <li>On Twitter, just include #sigcse in your tweet, and <a href="/sigcse2010/twitter/">view the results</a>.</li>
                 <li>Join the <a href="http://www.facebook.com/group.php?gid=344194633175">SIGCSE 2010 Facebook group</a>.</li>
                </ul>
              </div>
              
-             <div class="GoodMessage">SIGCSE Attendees, please fill our our surveys online:
-             <ul>
-               <li><a href="http://www.surveymonkey.com/s/SIGCSE2010Workshops">Survey for workshop attendees</a></li>
-               <li><a href="http://www.surveymonkey.com/s/SIGCSE2010">Overall symposium survey</a></li>
-             </ul>
+             <div class="GoodMessage">SIGCSE Attendees, please <a href="/sigcse2010/attendees/evaluations.php">take a moment to fill out our evaluation surveys.</a> Thanks for you help!
              </div> 
+             
+             <div class="GoodMessage">Order your own, <a href="http://www.zazzle.com/this_is_what_a_computer_scientist_looks_like_tshirt-235449239903267116">"This is what a computer scientist looks like" t-shirt</a>.</div>
 
 <!--
 <p><b>I'm interested in...</b><br />             

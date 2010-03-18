@@ -12,6 +12,13 @@
 
 	         <!-- right area -->
              
+<div class="GoodMessage">Carl Wieman has made is keynote slides available, you can download them here:
+ <ul>
+   <li><a href="/sigcse2010/attendees/downloads/sigcse10talk.pptx">Download as Microsoft PowerPoint file</a></li>
+   <li><a href="downloads/sigcse10talk.pdf">Download as Adobe PDF file</a></li>
+ </ul>
+</div>             
+             
 <div class="GoodMessage"><a href="wifi.php">Find out how to get free Wi-fi access during your stay at one of the official conference hotels</a></div>
 
 <h1>Information for Attendees</h1>

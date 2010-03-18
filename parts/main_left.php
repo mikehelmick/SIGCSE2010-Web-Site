@@ -1,8 +1,7 @@
 <h2>Welcome to SIGCSE!</h2>
 
   <div class="GoodMessage">
-Today is Wednesday, March 10.<br />
-On-site registration is open from 3:00 PM to 9:30 PM.
+SIGCSE 2010 has concluded. Thank you everyone for your participation, and we will see you in Dallas, Texas for SIGCSE 2011!
 <!--
 <ul>
  <li>Wednesday, March 10, 3:00 PM - 9:30 PM</li>
@@ -11,6 +10,11 @@ On-site registration is open from 3:00 PM to 9:30 PM.
  <li>Saturday, March 13, 8:00 AM - 2:30 PM</li>
 </ul>-->
   </div> 
+
+<h2>SIGCSE 2011 CFP</h2>
+<ul>
+ <li><a href="http://www.sigcse.org/sigcse2011/">sigcse.org/sigcse2011</a></li>
+</ul>
 
         <h2>News</h2>
         <ul>
